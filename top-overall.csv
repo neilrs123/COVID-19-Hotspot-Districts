@@ -1,0 +1,5 @@
+,overallid,method,spot,districtid1,districtid2,districtid3,districtid4,districtid5
+0,1.0,neighborhood,hot,172.0,185.0,244.0,660.0,103.0
+1,1.0,neighborhood,cold,695.0,424.0,648.0,370.0,694.0
+2,1.0,state,hot,549.0,172.0,215.0,563.0,537.0
+3,1.0,state,cold,262.0,424.0,434.0,712.0,715.0

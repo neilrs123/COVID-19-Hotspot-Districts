@@ -1,0 +1,4589 @@
+{
+    "agar malwa/101": [
+        "jhalawar/357",
+        "rajgarh/565",
+        "ratlam/577",
+        "shajapur/616",
+        "ujjain/690"
+    ],
+    "agra/102": [
+        "bharatpur/178",
+        "bhind/182",
+        "dholpur/257",
+        "etah/277",
+        "etawah/278",
+        "firozabad/287",
+        "hathras/324",
+        "mathura/472",
+        "morena/483"
+    ],
+    "ahmedabad/103": [
+        "anand/121",
+        "bhavnagar/180",
+        "botad/194",
+        "gandhinagar/292",
+        "kheda/399",
+        "mehsana/476",
+        "surendranagar/661"
+    ],
+    "ahmednagar/104": [
+        "aurangabad/134",
+        "boudh/195",
+        "nashik/505",
+        "osmanabad/517",
+        "pune/553",
+        "solapur/643",
+        "thane/668"
+    ],
+    "aizawl/105": [
+        "champhai/207",
+        "kolasib/411",
+        "lunglei/452",
+        "mamit/466",
+        "serchhip/612",
+        "saitual/596"
+    ],
+    "ajmer/106": [
+        "bhilwara/181",
+        "jaipur/338",
+        "nagaur/494",
+        "pali/523",
+        "rajsamand/569",
+        "tonk/683"
+    ],
+    "akola/107": [
+        "amravati/117",
+        "buldhana/199",
+        "washim/714"
+    ],
+    "alappuzha/108": [
+        "ernakulam/275",
+        "kollam/414",
+        "kottayam/421",
+        "pathanamthitta/534"
+    ],
+    "aligarh/109": [
+        "budaun/196",
+        "bulandshahr/198",
+        "gautam buddha nagar/298",
+        "hathras/324",
+        "kasganj/388",
+        "mathura/472",
+        "palwal/524",
+        "sambhal/601"
+    ],
+    "alipurduar/110": [
+        "cooch behar/227",
+        "jalpaiguri/346"
+    ],
+    "alirajpur/111": [
+        "barwani/164",
+        "chhota udaipur/218",
+        "dahod/231",
+        "dhar/253",
+        "jhabua/355",
+        "nandurbar/501"
+    ],
+    "almora/112": [
+        "bageshwar/138",
+        "chamoli/205",
+        "champawat/206",
+        "nainital/496",
+        "pauri garhwal/538",
+        "pithoragarh/543"
+    ],
+    "alwar/113": [
+        "bharatpur/178",
+        "dausa/241",
+        "jaipur/338",
+        "mahendragarh/459",
+        "nuh/516",
+        "rewari/582"
+    ],
+    "ambala/114": [
+        "kurukshetra/430",
+        "panchkula/525",
+        "patiala/536",
+        "s.a.s. nagar/588",
+        "sirmaur/635",
+        "yamunanagar/728"
+    ],
+    "ambedkar nagar/115": [
+        "ayodhya/135",
+        "azamgarh/136",
+        "basti/166",
+        "gorakhpur/309",
+        "sant kabir nagar/604",
+        "sultanpur/656"
+    ],
+    "amethi/116": [
+        "ayodhya/135",
+        "barabanki/157",
+        "pratapgarh/546",
+        "rae bareli/559",
+        "sultanpur/656"
+    ],
+    "amravati/117": [
+        "akola/107",
+        "betul/173",
+        "buldhana/199",
+        "burhanpur/201",
+        "chhindwara/217",
+        "khandwa/396",
+        "nagpur/495",
+        "wardha/713",
+        "washim/714",
+        "yavatmal/730"
+    ],
+    "amreli/118": [
+        "bhavnagar/180",
+        "botad/194",
+        "gir somnath/302",
+        "junagadh/364",
+        "rajkot/566"
+    ],
+    "amritsar/119": [
+        "gurdaspur/313",
+        "kapurthala/381",
+        "tarn taran/664"
+    ],
+    "amroha/120": [
+        "bijnor/188",
+        "bulandshahr/198",
+        "hapur/319",
+        "meerut/475",
+        "moradabad/481",
+        "sambhal/601"
+    ],
+    "anand/121": [
+        "ahmedabad/103",
+        "bharuch/179",
+        "kheda/399",
+        "vadodara/702"
+    ],
+    "anantapur/122": [
+        "ballari/144",
+        "chikkaballapura/219",
+        "chitradurga/221",
+        "chittoor/223",
+        "kurnool/429",
+        "tumakuru/685",
+        "y.s.r. kadapa/726"
+    ],
+    "anantnag/123": [
+        "doda/263",
+        "ganderbal/291",
+        "kargil/384",
+        "kishtwar/406",
+        "kulgam/426",
+        "pulwama/551",
+        "ramban/572",
+        "shopiyan/625",
+        "srinagar/653"
+    ],
+    "angul/124": [
+        "beed/168",
+        "cuttack/229",
+        "deogarh/245",
+        "dhenkanal/256",
+        "kendujhar/394",
+        "nayagarh/508",
+        "sambalpur/600",
+        "subarnapur/654",
+        "sundargarh/657"
+    ],
+    "anjaw/125": [
+        "changlang/211",
+        "lohit/444"
+    ],
+    "anuppur/126": [
+        "bilaspur/191",
+        "dindori/261",
+        "koriya/419",
+        "mungeli/485",
+        "shahdol/613",
+        "umaria/691",
+        "gaurela pendra marwahi/297"
+    ],
+    "araria/127": [
+        "kishanganj/405",
+        "madhepura/453",
+        "purnia/557",
+        "supaul/658"
+    ],
+    "aravalli/128": [
+        "dungarpur/265",
+        "gandhinagar/292",
+        "kheda/399",
+        "mahisagar/460",
+        "sabarkantha/590",
+        "udaipur/686"
+    ],
+    "ariyalur/129": [
+        "cuddalore/228",
+        "perambalur/539",
+        "thanjavur/669",
+        "tiruchirappalli/678"
+    ],
+    "arwal/130": [
+        "aurangabad/133",
+        "bhojpur/184",
+        "gaya/299",
+        "jehanabad/354",
+        "patna/537",
+        "rohtas/585"
+    ],
+    "ashoknagar/131": [
+        "guna/311",
+        "lalitpur/437",
+        "sagar/591",
+        "shivpuri/624",
+        "vidisha/707"
+    ],
+    "auraiya/132": [
+        "etawah/278",
+        "jalaun/342",
+        "kannauj/376",
+        "kanpur dehat/378"
+    ],
+    "aurangabad/133": [
+        "arwal/130",
+        "gaya/299",
+        "palamu/521",
+        "rohtas/585"
+    ],
+    "aurangabad/134": [
+        "ahmednagar/104",
+        "boudh/195",
+        "jalgaon/343",
+        "jalna/344",
+        "nashik/505"
+    ],
+    "ayodhya/135": [
+        "ambedkar nagar/115",
+        "amethi/116",
+        "barabanki/157",
+        "basti/166",
+        "gonda/306",
+        "sultanpur/656"
+    ],
+    "azamgarh/136": [
+        "ambedkar nagar/115",
+        "ghazipur/301",
+        "gorakhpur/309",
+        "jaunpur/353",
+        "mau/473",
+        "sultanpur/656"
+    ],
+    "bagalkote/137": [
+        "belagavi/170",
+        "gadag/288",
+        "koppal/416",
+        "raichur/560",
+        "vijayapura/708"
+    ],
+    "bageshwar/138": [
+        "almora/112",
+        "chamoli/205",
+        "pithoragarh/543"
+    ],
+    "baghpat/139": [
+        "ghaziabad/300",
+        "meerut/475",
+        "muzaffarnagar/488",
+        "panipat/527",
+        "shamli/617",
+        "sonipat/645",
+        "delhi/244"
+    ],
+    "bahraich/140": [
+        "barabanki/157",
+        "gonda/306",
+        "shrawasti/626",
+        "sitapur/639"
+    ],
+    "balaghat/141": [
+        "bhandara/177",
+        "gondia/307",
+        "kabeerdham/365",
+        "mandla/468",
+        "nagpur/495",
+        "rajnandgaon/567",
+        "seoni/611"
+    ],
+    "balangir/142": [
+        "bargarh/161",
+        "beed/168",
+        "kalahandi/369",
+        "kandhamal/374",
+        "nuapada/515",
+        "subarnapur/654"
+    ],
+    "balasore/143": [
+        "bhadrak/175",
+        "jhargram/359",
+        "kendujhar/394",
+        "mayurbhanj/474",
+        "paschim medinipur/532",
+        "purba medinipur/555"
+    ],
+    "ballari/144": [
+        "anantapur/122",
+        "chitradurga/221",
+        "davanagere/242",
+        "gadag/288",
+        "haveri/325",
+        "koppal/416",
+        "kurnool/429",
+        "raichur/560"
+    ],
+    "ballia/145": [
+        "bhojpur/184",
+        "buxar/202",
+        "deoria/247",
+        "ghazipur/301",
+        "mau/473",
+        "saran/606",
+        "siwan/641"
+    ],
+    "balod/146": [
+        "dhamtari/251",
+        "durg/266",
+        "rajnandgaon/567",
+        "uttar bastar kanker/698"
+    ],
+    "baloda bazar/147": [
+        "bametara/150",
+        "bilaspur/191",
+        "janjgir champa/351",
+        "mahasamund/457",
+        "mungeli/485",
+        "raigarh/562",
+        "raipur/563"
+    ],
+    "balrampur/148": [
+        "gonda/306",
+        "shrawasti/626",
+        "siddharthnagar/628"
+    ],
+    "balrampur/149": [
+        "garhwa/295",
+        "gumla/310",
+        "jashpur/352",
+        "latehar/438",
+        "singrauli/633",
+        "sonbhadra/644",
+        "surajpur/659",
+        "surguja/662"
+    ],
+    "bametara/150": [
+        "baloda bazar/147",
+        "durg/266",
+        "kabeerdham/365",
+        "mungeli/485",
+        "raipur/563",
+        "rajnandgaon/567"
+    ],
+    "banaskantha/151": [
+        "jalore/345",
+        "kutch/433",
+        "mehsana/476",
+        "patan/533",
+        "sabarkantha/590",
+        "sirohi/636"
+    ],
+    "banda/152": [
+        "chhatarpur/216",
+        "chitrakoot/222",
+        "fatehpur/284",
+        "hamirpur/317",
+        "mahoba/461",
+        "panna/528",
+        "satna/608"
+    ],
+    "bandipora/153": [
+        "baramulla/158",
+        "ganderbal/291",
+        "kargil/384",
+        "kupwara/428",
+        "srinagar/653"
+    ],
+    "banka/154": [
+        "bhagalpur/176",
+        "deoghar/246",
+        "dumka/264",
+        "godda/304",
+        "jamui/350",
+        "munger/486"
+    ],
+    "bankura/155": [
+        "hooghly/330",
+        "jhargram/359",
+        "paschim bardhaman/531",
+        "paschim medinipur/532",
+        "purba bardhaman/554",
+        "purulia/558"
+    ],
+    "banswara/156": [
+        "dahod/231",
+        "dungarpur/265",
+        "jhabua/355",
+        "mahisagar/460",
+        "pratapgarh/547",
+        "ratlam/577"
+    ],
+    "barabanki/157": [
+        "amethi/116",
+        "ayodhya/135",
+        "bahraich/140",
+        "gonda/306",
+        "lucknow/450",
+        "rae bareli/559",
+        "sitapur/639"
+    ],
+    "baramulla/158": [
+        "bandipora/153",
+        "budgam/197",
+        "kupwara/428",
+        "punch/552",
+        "srinagar/653"
+    ],
+    "baran/159": [
+        "guna/311",
+        "jhalawar/357",
+        "kota/420",
+        "sheopur/620",
+        "shivpuri/624"
+    ],
+    "bareilly/160": [
+        "budaun/196",
+        "pilibhit/542",
+        "rampur/574",
+        "shahjahanpur/615",
+        "udham singh nagar/687"
+    ],
+    "bargarh/161": [
+        "balangir/142",
+        "jharsuguda/360",
+        "mahasamund/457",
+        "nuapada/515",
+        "raigarh/562",
+        "sambalpur/600",
+        "subarnapur/654"
+    ],
+    "barmer/162": [
+        "jaisalmer/339",
+        "jalore/345",
+        "jodhpur/363",
+        "kutch/433",
+        "pali/523"
+    ],
+    "barnala/163": [
+        "bathinda/167",
+        "ludhiana/451",
+        "mansa/471",
+        "moga/478",
+        "sangrur/603"
+    ],
+    "barwani/164": [
+        "alirajpur/111",
+        "dhar/253",
+        "dhule/258",
+        "jalgaon/343",
+        "khargone/397",
+        "nandurbar/501"
+    ],
+    "bastar/165": [
+        "dakshin bastar dantewada/232",
+        "kondagaon/415",
+        "koraput/417",
+        "malkangiri/465",
+        "nabarangapur/491",
+        "sukma/655"
+    ],
+    "basti/166": [
+        "ambedkar nagar/115",
+        "ayodhya/135",
+        "gonda/306",
+        "sant kabir nagar/604",
+        "siddharthnagar/628"
+    ],
+    "bathinda/167": [
+        "barnala/163",
+        "faridkot/280",
+        "mansa/471",
+        "moga/478",
+        "sirsa/637",
+        "sri muktsar sahib/651"
+    ],
+    "beed/168": [
+        "angul/124",
+        "balangir/142",
+        "kandhamal/374",
+        "nayagarh/508",
+        "subarnapur/654"
+    ],
+    "begusarai/169": [
+        "khagaria/395",
+        "lakhisarai/436",
+        "munger/486",
+        "patna/537",
+        "samastipur/598"
+    ],
+    "belagavi/170": [
+        "bagalkote/137",
+        "dharwad/255",
+        "gadag/288",
+        "kolhapur/412",
+        "sangli/602",
+        "sindhudurg/632",
+        "uttara kannada/700",
+        "vijayapura/708"
+    ],
+    "bengaluru rural/171": [
+        "bengaluru urban/172",
+        "chikkaballapura/219",
+        "kolar/410",
+        "krishnagiri/425",
+        "ramanagara/570",
+        "tumakuru/685"
+    ],
+    "bengaluru urban/172": [
+        "bengaluru rural/171",
+        "krishnagiri/425",
+        "ramanagara/570"
+    ],
+    "betul/173": [
+        "amravati/117",
+        "chhindwara/217",
+        "harda/320",
+        "hoshangabad/331",
+        "khandwa/396"
+    ],
+    "bhadohi/174": [
+        "jaunpur/353",
+        "mirzapur/477",
+        "prayagraj/548",
+        "varanasi/705"
+    ],
+    "bhadrak/175": [
+        "balasore/143",
+        "jajpur/340",
+        "kendrapara/393",
+        "kendujhar/394"
+    ],
+    "bhagalpur/176": [
+        "banka/154",
+        "godda/304",
+        "katihar/390",
+        "khagaria/395",
+        "madhepura/453",
+        "munger/486",
+        "purnia/557",
+        "sahibganj/594"
+    ],
+    "bhandara/177": [
+        "balaghat/141",
+        "chandrapur/210",
+        "gadchiroli/289",
+        "gondia/307",
+        "nagpur/495"
+    ],
+    "bharatpur/178": [
+        "agra/102",
+        "alwar/113",
+        "dausa/241",
+        "dholpur/257",
+        "karauli/383",
+        "mathura/472",
+        "nuh/516"
+    ],
+    "bharuch/179": [
+        "anand/121",
+        "narmada/503",
+        "surat/660",
+        "vadodara/702"
+    ],
+    "bhavnagar/180": [
+        "ahmedabad/103",
+        "amreli/118",
+        "botad/194"
+    ],
+    "bhilwara/181": [
+        "ajmer/106",
+        "bundi/200",
+        "chittorgarh/224",
+        "neemuch/509",
+        "rajsamand/569",
+        "tonk/683"
+    ],
+    "bhind/182": [
+        "agra/102",
+        "datia/240",
+        "etawah/278",
+        "gwalior/315",
+        "jalaun/342",
+        "jhansi/358",
+        "morena/483"
+    ],
+    "bhiwani/183": [
+        "charkhi dadri/212",
+        "churu/225",
+        "hanumangarh/318",
+        "hisar/328",
+        "jhunjhunu/361",
+        "mahendragarh/459",
+        "rohtak/584"
+    ],
+    "bhojpur/184": [
+        "arwal/130",
+        "ballia/145",
+        "buxar/202",
+        "patna/537",
+        "rohtas/585",
+        "saran/606"
+    ],
+    "bhopal/185": [
+        "guna/311",
+        "raisen/564",
+        "rajgarh/565",
+        "sehore/610",
+        "vidisha/707"
+    ],
+    "bidar/186": [
+        "kalaburagi/368",
+        "latur/439",
+        "nanded/500",
+        "osmanabad/517"
+    ],
+    "bijapur/187": [
+        "dakshin bastar dantewada/232",
+        "gadchiroli/289",
+        "narayanpur/502",
+        "sukma/655"
+    ],
+    "bijnor/188": [
+        "amroha/120",
+        "haridwar/322",
+        "meerut/475",
+        "moradabad/481",
+        "muzaffarnagar/488",
+        "nainital/496",
+        "pauri garhwal/538",
+        "udham singh nagar/687"
+    ],
+    "bikaner/189": [
+        "churu/225",
+        "ganganagar/293",
+        "hanumangarh/318",
+        "jaisalmer/339",
+        "jodhpur/363",
+        "nagaur/494"
+    ],
+    "bilaspur/190": [
+        "hamirpur/316",
+        "mandi/467",
+        "rupnagar/587",
+        "solan/642",
+        "una/692",
+        "gaurela pendra marwahi/297"
+    ],
+    "bilaspur/191": [
+        "anuppur/126",
+        "baloda bazar/147",
+        "janjgir champa/351",
+        "korba/418",
+        "koriya/419",
+        "mungeli/485"
+    ],
+    "birbhum/192": [
+        "dumka/264",
+        "jamtara/349",
+        "murshidabad/487",
+        "pakur/519",
+        "paschim bardhaman/531",
+        "purba bardhaman/554"
+    ],
+    "bokaro/193": [
+        "dhanbad/252",
+        "giridih/303",
+        "hazaribagh/326",
+        "purulia/558",
+        "ramgarh/573"
+    ],
+    "botad/194": [
+        "ahmedabad/103",
+        "amreli/118",
+        "bhavnagar/180",
+        "rajkot/566",
+        "surendranagar/661"
+    ],
+    "boudh/195": [
+        "ahmednagar/104",
+        "aurangabad/134",
+        "jalna/344",
+        "latur/439",
+        "osmanabad/517",
+        "parbhani/530"
+    ],
+    "budaun/196": [
+        "aligarh/109",
+        "bareilly/160",
+        "farrukhabad/281",
+        "kasganj/388",
+        "moradabad/481",
+        "rampur/574",
+        "sambhal/601",
+        "shahjahanpur/615"
+    ],
+    "budgam/197": [
+        "baramulla/158",
+        "kulgam/426",
+        "pulwama/551",
+        "punch/552",
+        "shopiyan/625",
+        "srinagar/653"
+    ],
+    "bulandshahr/198": [
+        "aligarh/109",
+        "amroha/120",
+        "gautam buddha nagar/298",
+        "hapur/319",
+        "sambhal/601"
+    ],
+    "buldhana/199": [
+        "akola/107",
+        "amravati/117",
+        "burhanpur/201",
+        "jalgaon/343",
+        "jalna/344",
+        "parbhani/530",
+        "washim/714"
+    ],
+    "bundi/200": [
+        "bhilwara/181",
+        "chittorgarh/224",
+        "kota/420",
+        "sawai madhopur/609",
+        "tonk/683"
+    ],
+    "burhanpur/201": [
+        "amravati/117",
+        "buldhana/199",
+        "jalgaon/343",
+        "khandwa/396",
+        "khargone/397"
+    ],
+    "buxar/202": [
+        "ballia/145",
+        "bhojpur/184",
+        "ghazipur/301",
+        "rohtas/585"
+    ],
+    "chamarajanagara/203": [
+        "dharmapuri/254",
+        "erode/276",
+        "krishnagiri/425",
+        "mandya/470",
+        "mysuru/490",
+        "nilgiris/510",
+        "ramanagara/570",
+        "salem/597",
+        "wayanad/715"
+    ],
+    "chamba/204": [
+        "doda/263",
+        "kangra/375",
+        "kathua/389",
+        "kishtwar/406",
+        "lahaul and spiti/434",
+        "pathankot/535"
+    ],
+    "chamoli/205": [
+        "almora/112",
+        "bageshwar/138",
+        "pauri garhwal/538",
+        "pithoragarh/543",
+        "rudraprayag/586",
+        "uttarkashi/701"
+    ],
+    "champawat/206": [
+        "almora/112",
+        "nainital/496",
+        "pithoragarh/543",
+        "udham singh nagar/687"
+    ],
+    "champhai/207": [
+        "aizawl/105",
+        "serchhip/612",
+        "khawzawl/398",
+        "saitual/596"
+    ],
+    "chandauli/208": [
+        "ghazipur/301",
+        "mirzapur/477",
+        "sonbhadra/644",
+        "varanasi/705"
+    ],
+    "chandigarh/209": [
+        "panchkula/525",
+        "s.a.s. nagar/588"
+    ],
+    "chandrapur/210": [
+        "bhandara/177",
+        "gadchiroli/289",
+        "nagpur/495",
+        "wardha/713",
+        "yavatmal/730"
+    ],
+    "changlang/211": [
+        "anjaw/125",
+        "lohit/444",
+        "namsai/499",
+        "tirap/677"
+    ],
+    "charkhi dadri/212": [
+        "bhiwani/183",
+        "jhajjar/356",
+        "mahendragarh/459",
+        "rohtak/584"
+    ],
+    "chatra/213": [
+        "gaya/299",
+        "hazaribagh/326",
+        "latehar/438",
+        "palamu/521",
+        "ranchi/575"
+    ],
+    "chengalpattu/214": [],
+    "chennai/215": [
+        "kancheepuram/373",
+        "thiruvallur/671"
+    ],
+    "chhatarpur/216": [
+        "banda/152",
+        "damoh/236",
+        "jhansi/358",
+        "lalitpur/437",
+        "mahoba/461",
+        "panna/528",
+        "sagar/591",
+        "tikamgarh/676"
+    ],
+    "chhindwara/217": [
+        "amravati/117",
+        "betul/173",
+        "hoshangabad/331",
+        "nagpur/495",
+        "narsinghpur/504",
+        "seoni/611"
+    ],
+    "chhota udaipur/218": [
+        "alirajpur/111",
+        "dahod/231",
+        "nandurbar/501",
+        "narmada/503",
+        "panchmahal/526",
+        "vadodara/702"
+    ],
+    "chikkaballapura/219": [
+        "anantapur/122",
+        "bengaluru rural/171",
+        "chittoor/223",
+        "kolar/410",
+        "tumakuru/685"
+    ],
+    "chikkamagaluru/220": [
+        "chitradurga/221",
+        "dakshina kannada/234",
+        "davanagere/242",
+        "hassan/323",
+        "shivamogga/623",
+        "tumakuru/685",
+        "udupi/689"
+    ],
+    "chitradurga/221": [
+        "anantapur/122",
+        "ballari/144",
+        "chikkamagaluru/220",
+        "davanagere/242",
+        "tumakuru/685"
+    ],
+    "chitrakoot/222": [
+        "banda/152",
+        "fatehpur/284",
+        "kaushambi/392",
+        "prayagraj/548",
+        "rewa/581",
+        "satna/608"
+    ],
+    "chittoor/223": [
+        "anantapur/122",
+        "chikkaballapura/219",
+        "kolar/410",
+        "krishnagiri/425",
+        "s.p.s. nellore/589",
+        "thiruvallur/671",
+        "vellore/706",
+        "y.s.r. kadapa/726",
+        "tirupathur/680"
+    ],
+    "chittorgarh/224": [
+        "bhilwara/181",
+        "bundi/200",
+        "kota/420",
+        "mandsaur/469",
+        "neemuch/509",
+        "pratapgarh/547",
+        "rajsamand/569",
+        "udaipur/686"
+    ],
+    "churu/225": [
+        "bhiwani/183",
+        "bikaner/189",
+        "hanumangarh/318",
+        "jhunjhunu/361",
+        "nagaur/494",
+        "sikar/630"
+    ],
+    "coimbatore/226": [
+        "ernakulam/275",
+        "erode/276",
+        "idukki/334",
+        "nilgiris/510",
+        "palakkad/520",
+        "thrissur/675",
+        "tiruppur/681"
+    ],
+    "cooch behar/227": [
+        "alipurduar/110",
+        "jalpaiguri/346"
+    ],
+    "cuddalore/228": [
+        "ariyalur/129",
+        "kallakurichi/371",
+        "nagapattinam/493",
+        "perambalur/539",
+        "puducherry/549",
+        "thanjavur/669",
+        "viluppuram/709"
+    ],
+    "cuttack/229": [
+        "angul/124",
+        "dhenkanal/256",
+        "jagatsinghpur/337",
+        "jajpur/340",
+        "kendrapara/393",
+        "khordha/400",
+        "nayagarh/508",
+        "puri/556"
+    ],
+    "dadra and nagar haveli/230": [
+        "palghar/522",
+        "valsad/704"
+    ],
+    "dahod/231": [
+        "alirajpur/111",
+        "banswara/156",
+        "chhota udaipur/218",
+        "jhabua/355",
+        "mahisagar/460",
+        "panchmahal/526"
+    ],
+    "dakshin bastar dantewada/232": [
+        "bastar/165",
+        "bijapur/187",
+        "kondagaon/415",
+        "narayanpur/502",
+        "sukma/655"
+    ],
+    "dakshin dinajpur/233": [
+        "malda/464",
+        "uttar dinajpur/699"
+    ],
+    "dakshina kannada/234": [
+        "chikkamagaluru/220",
+        "hassan/323",
+        "kasaragod/387",
+        "kodagu/407",
+        "udupi/689"
+    ],
+    "daman/235": [
+        "valsad/704"
+    ],
+    "damoh/236": [
+        "chhatarpur/216",
+        "jabalpur/336",
+        "katni/391",
+        "narsinghpur/504",
+        "panna/528",
+        "sagar/591"
+    ],
+    "dang/237": [
+        "dhule/258",
+        "nashik/505",
+        "tapi/663"
+    ],
+    "darbhanga/238": [
+        "madhubani/454",
+        "muzaffarpur/489",
+        "saharsa/593",
+        "samastipur/598",
+        "sitamarhi/638"
+    ],
+    "darjeeling/239": [
+        "jalpaiguri/346",
+        "kalimpong/370",
+        "kishanganj/405",
+        "uttar dinajpur/699"
+    ],
+    "datia/240": [
+        "bhind/182",
+        "gwalior/315",
+        "jhansi/358",
+        "lalitpur/437",
+        "shivpuri/624"
+    ],
+    "dausa/241": [
+        "alwar/113",
+        "bharatpur/178",
+        "jaipur/338",
+        "karauli/383",
+        "sawai madhopur/609",
+        "tonk/683"
+    ],
+    "davanagere/242": [
+        "ballari/144",
+        "chikkamagaluru/220",
+        "chitradurga/221",
+        "haveri/325",
+        "shivamogga/623"
+    ],
+    "dehradun/243": [
+        "haridwar/322",
+        "pauri garhwal/538",
+        "saharanpur/592",
+        "shimla/622",
+        "sirmaur/635",
+        "tehri garhwal/666",
+        "uttarkashi/701"
+    ],
+    "delhi/244": [
+        "baghpat/139",
+        "faridabad/279",
+        "gautam buddha nagar/298",
+        "ghaziabad/300",
+        "gurugram/314",
+        "jhajjar/356",
+        "sonipat/645"
+    ],
+    "deogarh/245": [
+        "angul/124",
+        "sambalpur/600",
+        "sundargarh/657"
+    ],
+    "deoghar/246": [
+        "banka/154",
+        "dumka/264",
+        "giridih/303",
+        "jamtara/349",
+        "jamui/350"
+    ],
+    "deoria/247": [
+        "ballia/145",
+        "gopalganj/308",
+        "gorakhpur/309",
+        "kushinagar/432",
+        "mau/473",
+        "siwan/641"
+    ],
+    "devbhumi dwarka/248": [
+        "jamnagar/348",
+        "porbandar/544"
+    ],
+    "dewas/249": [
+        "harda/320",
+        "indore/335",
+        "khandwa/396",
+        "khargone/397",
+        "sehore/610",
+        "shajapur/616",
+        "ujjain/690"
+    ],
+    "dhalai/250": [
+        "gomati/305",
+        "khowai/401",
+        "north tripura/514",
+        "unokoti/694"
+    ],
+    "dhamtari/251": [
+        "balod/146",
+        "durg/266",
+        "gariaband/296",
+        "kondagaon/415",
+        "nabarangapur/491",
+        "raipur/563",
+        "uttar bastar kanker/698"
+    ],
+    "dhanbad/252": [
+        "bokaro/193",
+        "giridih/303",
+        "jamtara/349",
+        "paschim bardhaman/531",
+        "purulia/558"
+    ],
+    "dhar/253": [
+        "alirajpur/111",
+        "barwani/164",
+        "indore/335",
+        "jhabua/355",
+        "khargone/397",
+        "ratlam/577",
+        "ujjain/690"
+    ],
+    "dharmapuri/254": [
+        "chamarajanagara/203",
+        "erode/276",
+        "kallakurichi/371",
+        "krishnagiri/425",
+        "salem/597",
+        "tiruvannamalai/682"
+    ],
+    "dharwad/255": [
+        "belagavi/170",
+        "gadag/288",
+        "haveri/325",
+        "uttara kannada/700"
+    ],
+    "dhenkanal/256": [
+        "angul/124",
+        "cuttack/229",
+        "jajpur/340",
+        "kendujhar/394"
+    ],
+    "dholpur/257": [
+        "agra/102",
+        "bharatpur/178",
+        "karauli/383",
+        "morena/483"
+    ],
+    "dhule/258": [
+        "barwani/164",
+        "dang/237",
+        "jalgaon/343",
+        "nandurbar/501",
+        "nashik/505",
+        "tapi/663"
+    ],
+    "dimapur/259": [
+        "kohima/409",
+        "peren/540"
+    ],
+    "dindigul/260": [
+        "idukki/334",
+        "karur/386",
+        "madurai/455",
+        "theni/670",
+        "tiruchirappalli/678",
+        "tiruppur/681"
+    ],
+    "dindori/261": [
+        "anuppur/126",
+        "jabalpur/336",
+        "kabeerdham/365",
+        "mandla/468",
+        "mungeli/485",
+        "umaria/691"
+    ],
+    "diu/262": [
+        "gir somnath/302"
+    ],
+    "doda/263": [
+        "anantnag/123",
+        "chamba/204",
+        "kathua/389",
+        "kishtwar/406",
+        "ramban/572",
+        "udhampur/688"
+    ],
+    "dumka/264": [
+        "banka/154",
+        "birbhum/192",
+        "deoghar/246",
+        "godda/304",
+        "jamtara/349",
+        "pakur/519"
+    ],
+    "dungarpur/265": [
+        "aravalli/128",
+        "banswara/156",
+        "mahisagar/460",
+        "pratapgarh/547",
+        "udaipur/686"
+    ],
+    "durg/266": [
+        "balod/146",
+        "bametara/150",
+        "dhamtari/251",
+        "raipur/563",
+        "rajnandgaon/567"
+    ],
+    "east champaran/267": [
+        "gopalganj/308",
+        "muzaffarpur/489",
+        "sheohar/619",
+        "sitamarhi/638",
+        "west champaran/716"
+    ],
+    "east garo hills/268": [
+        "north garo hills/513",
+        "south garo hills/647",
+        "west garo hills/717",
+        "west khasi hills/721"
+    ],
+    "east godavari/269": [
+        "malkangiri/465",
+        "sukma/655",
+        "visakhapatnam/711",
+        "west godavari/718",
+        "yanam/729"
+    ],
+    "east jaintia hills/270": [
+        "west jaintia hills/719"
+    ],
+    "east kameng/271": [
+        "kurung kumey/431",
+        "pakke kessang/518",
+        "papum pare/529",
+        "tawang/665",
+        "west kameng/720"
+    ],
+    "east khasi hills/272": [
+        "ribhoi/583",
+        "south west khasi hills/650",
+        "west jaintia hills/719",
+        "west khasi hills/721"
+    ],
+    "east siang/273": [
+        "lower dibang valley/447",
+        "lower siang/448",
+        "siang/627",
+        "upper siang/696"
+    ],
+    "east singhbhum/274": [
+        "jhargram/359",
+        "mayurbhanj/474",
+        "purulia/558",
+        "saraikela-kharsawan/605"
+    ],
+    "ernakulam/275": [
+        "alappuzha/108",
+        "coimbatore/226",
+        "idukki/334",
+        "kottayam/421",
+        "thrissur/675"
+    ],
+    "erode/276": [
+        "chamarajanagara/203",
+        "coimbatore/226",
+        "dharmapuri/254",
+        "karur/386",
+        "namakkal/498",
+        "nilgiris/510",
+        "salem/597",
+        "tiruppur/681"
+    ],
+    "etah/277": [
+        "agra/102",
+        "farrukhabad/281",
+        "firozabad/287",
+        "hathras/324",
+        "kasganj/388",
+        "mainpuri/462"
+    ],
+    "etawah/278": [
+        "agra/102",
+        "auraiya/132",
+        "bhind/182",
+        "firozabad/287",
+        "jalaun/342",
+        "kannauj/376",
+        "mainpuri/462"
+    ],
+    "faridabad/279": [
+        "gautam buddha nagar/298",
+        "gurugram/314",
+        "palwal/524",
+        "delhi/244"
+    ],
+    "faridkot/280": [
+        "bathinda/167",
+        "ferozepur/286",
+        "moga/478",
+        "sri muktsar sahib/651"
+    ],
+    "farrukhabad/281": [
+        "budaun/196",
+        "etah/277",
+        "hardoi/321",
+        "kannauj/376",
+        "kasganj/388",
+        "mainpuri/462",
+        "shahjahanpur/615"
+    ],
+    "fatehabad/282": [
+        "hanumangarh/318",
+        "hisar/328",
+        "jind/362",
+        "mansa/471",
+        "sangrur/603",
+        "sirsa/637"
+    ],
+    "fatehgarh sahib/283": [
+        "ludhiana/451",
+        "patiala/536",
+        "rupnagar/587",
+        "s.a.s. nagar/588",
+        "sangrur/603"
+    ],
+    "fatehpur/284": [
+        "banda/152",
+        "chitrakoot/222",
+        "hamirpur/317",
+        "kanpur nagar/379",
+        "kaushambi/392",
+        "pratapgarh/546",
+        "rae bareli/559",
+        "unnao/693"
+    ],
+    "fazilka/285": [
+        "ferozepur/286",
+        "ganganagar/293",
+        "hanumangarh/318",
+        "sri muktsar sahib/651"
+    ],
+    "ferozepur/286": [
+        "faridkot/280",
+        "fazilka/285",
+        "jalandhar/341",
+        "kapurthala/381",
+        "moga/478",
+        "sri muktsar sahib/651",
+        "tarn taran/664"
+    ],
+    "firozabad/287": [
+        "agra/102",
+        "etah/277",
+        "etawah/278",
+        "mainpuri/462"
+    ],
+    "gadag/288": [
+        "bagalkote/137",
+        "ballari/144",
+        "belagavi/170",
+        "dharwad/255",
+        "haveri/325",
+        "koppal/416"
+    ],
+    "gadchiroli/289": [
+        "bhandara/177",
+        "bijapur/187",
+        "chandrapur/210",
+        "gondia/307",
+        "narayanpur/502",
+        "rajnandgaon/567",
+        "uttar bastar kanker/698"
+    ],
+    "gajapati/290": [
+        "ganjam/294",
+        "kandhamal/374",
+        "rayagada/579",
+        "srikakulam/652"
+    ],
+    "ganderbal/291": [
+        "anantnag/123",
+        "bandipora/153",
+        "kargil/384",
+        "srinagar/653"
+    ],
+    "gandhinagar/292": [
+        "ahmedabad/103",
+        "aravalli/128",
+        "kheda/399",
+        "mehsana/476",
+        "sabarkantha/590"
+    ],
+    "ganganagar/293": [
+        "bikaner/189",
+        "fazilka/285",
+        "hanumangarh/318"
+    ],
+    "ganjam/294": [
+        "gajapati/290",
+        "kandhamal/374",
+        "khordha/400",
+        "nayagarh/508",
+        "puri/556",
+        "srikakulam/652"
+    ],
+    "garhwa/295": [
+        "balrampur/149",
+        "latehar/438",
+        "palamu/521",
+        "rohtas/585",
+        "sonbhadra/644"
+    ],
+    "gariaband/296": [
+        "dhamtari/251",
+        "kalahandi/369",
+        "mahasamund/457",
+        "nabarangapur/491",
+        "nuapada/515",
+        "raipur/563"
+    ],
+    "gaurela pendra marwahi/297": [
+        "anuppur/126",
+        "bilaspur/190",
+        "korba/418",
+        "koriya/419",
+        "mungeli/485"
+    ],
+    "gautam buddha nagar/298": [
+        "aligarh/109",
+        "bulandshahr/198",
+        "faridabad/279",
+        "ghaziabad/300",
+        "hapur/319",
+        "palwal/524",
+        "delhi/244"
+    ],
+    "gaya/299": [
+        "arwal/130",
+        "aurangabad/133",
+        "chatra/213",
+        "hazaribagh/326",
+        "jehanabad/354",
+        "koderma/408",
+        "nalanda/497",
+        "nawada/507",
+        "palamu/521"
+    ],
+    "ghaziabad/300": [
+        "baghpat/139",
+        "gautam buddha nagar/298",
+        "hapur/319",
+        "meerut/475",
+        "delhi/244"
+    ],
+    "ghazipur/301": [
+        "azamgarh/136",
+        "ballia/145",
+        "buxar/202",
+        "chandauli/208",
+        "jaunpur/353",
+        "mau/473",
+        "varanasi/705"
+    ],
+    "gir somnath/302": [
+        "amreli/118",
+        "diu/262",
+        "junagadh/364"
+    ],
+    "giridih/303": [
+        "bokaro/193",
+        "deoghar/246",
+        "dhanbad/252",
+        "hazaribagh/326",
+        "jamtara/349",
+        "jamui/350",
+        "koderma/408",
+        "nawada/507"
+    ],
+    "godda/304": [
+        "banka/154",
+        "bhagalpur/176",
+        "dumka/264",
+        "pakur/519",
+        "sahibganj/594"
+    ],
+    "gomati/305": [
+        "dhalai/250",
+        "khowai/401",
+        "sipahijala/634",
+        "south tripura/648"
+    ],
+    "gonda/306": [
+        "ayodhya/135",
+        "bahraich/140",
+        "balrampur/148",
+        "barabanki/157",
+        "basti/166",
+        "shrawasti/626",
+        "siddharthnagar/628"
+    ],
+    "gondia/307": [
+        "balaghat/141",
+        "bhandara/177",
+        "gadchiroli/289",
+        "rajnandgaon/567"
+    ],
+    "gopalganj/308": [
+        "deoria/247",
+        "east champaran/267",
+        "kushinagar/432",
+        "muzaffarpur/489",
+        "saran/606",
+        "siwan/641",
+        "west champaran/716"
+    ],
+    "gorakhpur/309": [
+        "ambedkar nagar/115",
+        "azamgarh/136",
+        "deoria/247",
+        "kushinagar/432",
+        "maharajganj/456",
+        "mau/473",
+        "sant kabir nagar/604",
+        "siddharthnagar/628"
+    ],
+    "gumla/310": [
+        "balrampur/149",
+        "jashpur/352",
+        "khunti/402",
+        "latehar/438",
+        "lohardaga/443",
+        "ranchi/575",
+        "simdega/631"
+    ],
+    "guna/311": [
+        "ashoknagar/131",
+        "baran/159",
+        "bhopal/185",
+        "jhalawar/357",
+        "rajgarh/565",
+        "shivpuri/624",
+        "vidisha/707"
+    ],
+    "guntur/312": [
+        "krishna/424",
+        "prakasam/545"
+    ],
+    "gurdaspur/313": [
+        "amritsar/119",
+        "hoshiarpur/332",
+        "kangra/375",
+        "kapurthala/381",
+        "pathankot/535"
+    ],
+    "gurugram/314": [
+        "faridabad/279",
+        "jhajjar/356",
+        "nuh/516",
+        "palwal/524",
+        "rewari/582",
+        "delhi/244"
+    ],
+    "gwalior/315": [
+        "bhind/182",
+        "datia/240",
+        "morena/483",
+        "shivpuri/624"
+    ],
+    "hamirpur/316": [
+        "bilaspur/190",
+        "kangra/375",
+        "mandi/467",
+        "una/692"
+    ],
+    "hamirpur/317": [
+        "banda/152",
+        "fatehpur/284",
+        "jalaun/342",
+        "jhansi/358",
+        "kanpur dehat/378",
+        "kanpur nagar/379",
+        "mahoba/461"
+    ],
+    "hanumangarh/318": [
+        "bhiwani/183",
+        "bikaner/189",
+        "churu/225",
+        "fatehabad/282",
+        "fazilka/285",
+        "ganganagar/293",
+        "hisar/328",
+        "sirsa/637",
+        "sri muktsar sahib/651"
+    ],
+    "hapur/319": [
+        "amroha/120",
+        "bulandshahr/198",
+        "gautam buddha nagar/298",
+        "ghaziabad/300",
+        "meerut/475"
+    ],
+    "harda/320": [
+        "betul/173",
+        "dewas/249",
+        "hoshangabad/331",
+        "khandwa/396",
+        "sehore/610"
+    ],
+    "hardoi/321": [
+        "farrukhabad/281",
+        "kannauj/376",
+        "kanpur nagar/379",
+        "lucknow/450",
+        "shahjahanpur/615",
+        "sitapur/639",
+        "unnao/693"
+    ],
+    "haridwar/322": [
+        "bijnor/188",
+        "dehradun/243",
+        "muzaffarnagar/488",
+        "pauri garhwal/538",
+        "saharanpur/592"
+    ],
+    "hassan/323": [
+        "chikkamagaluru/220",
+        "dakshina kannada/234",
+        "kodagu/407",
+        "mandya/470",
+        "mysuru/490",
+        "tumakuru/685"
+    ],
+    "hathras/324": [
+        "agra/102",
+        "aligarh/109",
+        "etah/277",
+        "kasganj/388",
+        "mathura/472"
+    ],
+    "haveri/325": [
+        "ballari/144",
+        "davanagere/242",
+        "dharwad/255",
+        "gadag/288",
+        "shivamogga/623",
+        "uttara kannada/700"
+    ],
+    "hazaribagh/326": [
+        "bokaro/193",
+        "chatra/213",
+        "gaya/299",
+        "giridih/303",
+        "koderma/408",
+        "ramgarh/573",
+        "ranchi/575"
+    ],
+    "hingoli/327": [
+        "nanded/500",
+        "parbhani/530",
+        "washim/714",
+        "yavatmal/730"
+    ],
+    "hisar/328": [
+        "bhiwani/183",
+        "fatehabad/282",
+        "hanumangarh/318",
+        "jind/362",
+        "rohtak/584"
+    ],
+    "hnahthial/329": [
+        "lunglei/452",
+        "serchhip/612"
+    ],
+    "hooghly/330": [
+        "bankura/155",
+        "howrah/333",
+        "nadia/492",
+        "north 24 parganas/512",
+        "paschim medinipur/532",
+        "purba bardhaman/554"
+    ],
+    "hoshangabad/331": [
+        "betul/173",
+        "chhindwara/217",
+        "harda/320",
+        "narsinghpur/504",
+        "raisen/564",
+        "sehore/610"
+    ],
+    "hoshiarpur/332": [
+        "gurdaspur/313",
+        "jalandhar/341",
+        "kangra/375",
+        "kapurthala/381",
+        "rupnagar/587",
+        "shahid bhagat singh nagar/614",
+        "una/692"
+    ],
+    "howrah/333": [
+        "hooghly/330",
+        "kolkata/413",
+        "north 24 parganas/512",
+        "paschim medinipur/532",
+        "purba medinipur/555",
+        "south 24 parganas/646"
+    ],
+    "idukki/334": [
+        "coimbatore/226",
+        "dindigul/260",
+        "ernakulam/275",
+        "kottayam/421",
+        "pathanamthitta/534",
+        "theni/670",
+        "tirunelveli/679",
+        "tiruppur/681",
+        "virudhunagar/710"
+    ],
+    "indore/335": [
+        "dewas/249",
+        "dhar/253",
+        "khargone/397",
+        "ujjain/690"
+    ],
+    "jabalpur/336": [
+        "damoh/236",
+        "dindori/261",
+        "katni/391",
+        "mandla/468",
+        "narsinghpur/504",
+        "seoni/611",
+        "umaria/691"
+    ],
+    "jagatsinghpur/337": [
+        "cuttack/229",
+        "kendrapara/393",
+        "puri/556"
+    ],
+    "jaipur/338": [
+        "ajmer/106",
+        "alwar/113",
+        "dausa/241",
+        "mahendragarh/459",
+        "nagaur/494",
+        "sikar/630",
+        "tonk/683"
+    ],
+    "jaisalmer/339": [
+        "barmer/162",
+        "bikaner/189",
+        "jodhpur/363"
+    ],
+    "jajpur/340": [
+        "bhadrak/175",
+        "cuttack/229",
+        "dhenkanal/256",
+        "kendrapara/393",
+        "kendujhar/394"
+    ],
+    "jalandhar/341": [
+        "ferozepur/286",
+        "hoshiarpur/332",
+        "kapurthala/381",
+        "ludhiana/451",
+        "moga/478",
+        "shahid bhagat singh nagar/614"
+    ],
+    "jalaun/342": [
+        "auraiya/132",
+        "bhind/182",
+        "etawah/278",
+        "hamirpur/317",
+        "jhansi/358",
+        "kanpur dehat/378"
+    ],
+    "jalgaon/343": [
+        "aurangabad/134",
+        "barwani/164",
+        "buldhana/199",
+        "burhanpur/201",
+        "dhule/258",
+        "jalna/344",
+        "khargone/397",
+        "nashik/505"
+    ],
+    "jalna/344": [
+        "aurangabad/134",
+        "boudh/195",
+        "buldhana/199",
+        "jalgaon/343",
+        "parbhani/530"
+    ],
+    "jalore/345": [
+        "banaskantha/151",
+        "barmer/162",
+        "kutch/433",
+        "pali/523",
+        "sirohi/636"
+    ],
+    "jalpaiguri/346": [
+        "alipurduar/110",
+        "cooch behar/227",
+        "darjeeling/239",
+        "kalimpong/370"
+    ],
+    "jammu/347": [
+        "rajouri/568",
+        "reasi/580",
+        "samba/599",
+        "udhampur/688"
+    ],
+    "jamnagar/348": [
+        "devbhumi dwarka/248",
+        "morbi/482",
+        "porbandar/544",
+        "rajkot/566"
+    ],
+    "jamtara/349": [
+        "birbhum/192",
+        "deoghar/246",
+        "dhanbad/252",
+        "dumka/264",
+        "giridih/303",
+        "paschim bardhaman/531"
+    ],
+    "jamui/350": [
+        "banka/154",
+        "deoghar/246",
+        "giridih/303",
+        "lakhisarai/436",
+        "munger/486",
+        "nawada/507",
+        "sheikhpura/618"
+    ],
+    "janjgir champa/351": [
+        "baloda bazar/147",
+        "bilaspur/191",
+        "korba/418",
+        "raigarh/562"
+    ],
+    "jashpur/352": [
+        "balrampur/149",
+        "gumla/310",
+        "raigarh/562",
+        "simdega/631",
+        "sundargarh/657",
+        "surguja/662"
+    ],
+    "jaunpur/353": [
+        "azamgarh/136",
+        "bhadohi/174",
+        "ghazipur/301",
+        "pratapgarh/546",
+        "prayagraj/548",
+        "sultanpur/656",
+        "varanasi/705"
+    ],
+    "jehanabad/354": [
+        "arwal/130",
+        "gaya/299",
+        "nalanda/497",
+        "patna/537"
+    ],
+    "jhabua/355": [
+        "alirajpur/111",
+        "banswara/156",
+        "dahod/231",
+        "dhar/253",
+        "ratlam/577"
+    ],
+    "jhajjar/356": [
+        "charkhi dadri/212",
+        "gurugram/314",
+        "mahendragarh/459",
+        "rewari/582",
+        "rohtak/584",
+        "sonipat/645",
+        "delhi/244"
+    ],
+    "jhalawar/357": [
+        "agar malwa/101",
+        "baran/159",
+        "guna/311",
+        "kota/420",
+        "mandsaur/469",
+        "rajgarh/565",
+        "ratlam/577"
+    ],
+    "jhansi/358": [
+        "bhind/182",
+        "chhatarpur/216",
+        "datia/240",
+        "hamirpur/317",
+        "jalaun/342",
+        "lalitpur/437",
+        "mahoba/461",
+        "niwari/511",
+        "shivpuri/624",
+        "tikamgarh/676"
+    ],
+    "jhargram/359": [
+        "balasore/143",
+        "bankura/155",
+        "east singhbhum/274",
+        "mayurbhanj/474",
+        "paschim medinipur/532",
+        "purulia/558"
+    ],
+    "jharsuguda/360": [
+        "bargarh/161",
+        "raigarh/562",
+        "sambalpur/600",
+        "sundargarh/657"
+    ],
+    "jhunjhunu/361": [
+        "bhiwani/183",
+        "churu/225",
+        "mahendragarh/459",
+        "sikar/630"
+    ],
+    "jind/362": [
+        "fatehabad/282",
+        "hisar/328",
+        "kaithal/367",
+        "karnal/385",
+        "panipat/527",
+        "patiala/536",
+        "rohtak/584",
+        "sangrur/603",
+        "sonipat/645"
+    ],
+    "jodhpur/363": [
+        "barmer/162",
+        "bikaner/189",
+        "jaisalmer/339",
+        "nagaur/494",
+        "pali/523"
+    ],
+    "junagadh/364": [
+        "amreli/118",
+        "gir somnath/302",
+        "porbandar/544",
+        "rajkot/566"
+    ],
+    "kabeerdham/365": [
+        "balaghat/141",
+        "bametara/150",
+        "dindori/261",
+        "mandla/468",
+        "mungeli/485",
+        "rajnandgaon/567"
+    ],
+    "kaimur/366": [
+        "navsari/506",
+        "north garo hills/513",
+        "ribhoi/583",
+        "west khasi hills/721"
+    ],
+    "kaithal/367": [
+        "jind/362",
+        "karnal/385",
+        "kurukshetra/430",
+        "patiala/536"
+    ],
+    "kalaburagi/368": [
+        "bidar/186",
+        "osmanabad/517",
+        "solapur/643",
+        "vijayapura/708",
+        "yadgir/727"
+    ],
+    "kalahandi/369": [
+        "balangir/142",
+        "gariaband/296",
+        "kandhamal/374",
+        "koraput/417",
+        "nabarangapur/491",
+        "nuapada/515",
+        "rayagada/579"
+    ],
+    "kalimpong/370": [
+        "darjeeling/239",
+        "jalpaiguri/346"
+    ],
+    "kallakurichi/371": [
+        "cuddalore/228",
+        "dharmapuri/254",
+        "perambalur/539",
+        "salem/597",
+        "tiruvannamalai/682",
+        "viluppuram/709"
+    ],
+    "kamle/372": [
+        "kra daadi/423",
+        "lakhimpur kheri/435",
+        "lower siang/448",
+        "lower subansiri/449",
+        "papum pare/529",
+        "upper subansiri/697"
+    ],
+    "kancheepuram/373": [
+        "chennai/215",
+        "thiruvallur/671",
+        "tiruvannamalai/682",
+        "viluppuram/709",
+        "ranipet/576"
+    ],
+    "kandhamal/374": [
+        "balangir/142",
+        "beed/168",
+        "gajapati/290",
+        "ganjam/294",
+        "kalahandi/369",
+        "nayagarh/508",
+        "rayagada/579"
+    ],
+    "kangra/375": [
+        "chamba/204",
+        "gurdaspur/313",
+        "hamirpur/316",
+        "hoshiarpur/332",
+        "kullu/427",
+        "lahaul and spiti/434",
+        "mandi/467",
+        "pathankot/535",
+        "una/692"
+    ],
+    "kannauj/376": [
+        "auraiya/132",
+        "etawah/278",
+        "farrukhabad/281",
+        "hardoi/321",
+        "kanpur dehat/378",
+        "kanpur nagar/379",
+        "mainpuri/462"
+    ],
+    "kannur/377": [
+        "kasaragod/387",
+        "kodagu/407",
+        "kozhikode/422",
+        "mahe/458",
+        "wayanad/715"
+    ],
+    "kanpur dehat/378": [
+        "auraiya/132",
+        "hamirpur/317",
+        "jalaun/342",
+        "kannauj/376",
+        "kanpur nagar/379"
+    ],
+    "kanpur nagar/379": [
+        "fatehpur/284",
+        "hamirpur/317",
+        "hardoi/321",
+        "kannauj/376",
+        "kanpur dehat/378",
+        "unnao/693"
+    ],
+    "kanyakumari/380": [
+        "thiruvananthapuram/672",
+        "tirunelveli/679"
+    ],
+    "kapurthala/381": [
+        "amritsar/119",
+        "ferozepur/286",
+        "gurdaspur/313",
+        "hoshiarpur/332",
+        "jalandhar/341",
+        "shahid bhagat singh nagar/614",
+        "tarn taran/664"
+    ],
+    "karaikal/382": [
+        "nagapattinam/493",
+        "thiruvarur/673"
+    ],
+    "karauli/383": [
+        "bharatpur/178",
+        "dausa/241",
+        "dholpur/257",
+        "morena/483",
+        "sawai madhopur/609",
+        "sheopur/620"
+    ],
+    "kargil/384": [
+        "anantnag/123",
+        "bandipora/153",
+        "ganderbal/291",
+        "kishtwar/406",
+        "lahaul and spiti/434",
+        "leh/441"
+    ],
+    "karnal/385": [
+        "jind/362",
+        "kaithal/367",
+        "kurukshetra/430",
+        "panipat/527",
+        "saharanpur/592",
+        "shamli/617",
+        "yamunanagar/728"
+    ],
+    "karur/386": [
+        "dindigul/260",
+        "erode/276",
+        "namakkal/498",
+        "tiruchirappalli/678",
+        "tiruppur/681"
+    ],
+    "kasaragod/387": [
+        "dakshina kannada/234",
+        "kannur/377",
+        "kodagu/407"
+    ],
+    "kasganj/388": [
+        "aligarh/109",
+        "budaun/196",
+        "etah/277",
+        "farrukhabad/281",
+        "hathras/324"
+    ],
+    "kathua/389": [
+        "chamba/204",
+        "doda/263",
+        "pathankot/535",
+        "samba/599",
+        "udhampur/688"
+    ],
+    "katihar/390": [
+        "bhagalpur/176",
+        "malda/464",
+        "purnia/557",
+        "sahibganj/594",
+        "uttar dinajpur/699"
+    ],
+    "katni/391": [
+        "damoh/236",
+        "jabalpur/336",
+        "panna/528",
+        "satna/608",
+        "umaria/691"
+    ],
+    "kaushambi/392": [
+        "chitrakoot/222",
+        "fatehpur/284",
+        "pratapgarh/546",
+        "prayagraj/548",
+        "rae bareli/559"
+    ],
+    "kendrapara/393": [
+        "bhadrak/175",
+        "cuttack/229",
+        "jagatsinghpur/337",
+        "jajpur/340"
+    ],
+    "kendujhar/394": [
+        "angul/124",
+        "balasore/143",
+        "bhadrak/175",
+        "dhenkanal/256",
+        "jajpur/340",
+        "mayurbhanj/474",
+        "sundargarh/657",
+        "west singhbhum/723"
+    ],
+    "khagaria/395": [
+        "begusarai/169",
+        "bhagalpur/176",
+        "madhepura/453",
+        "munger/486",
+        "saharsa/593",
+        "samastipur/598"
+    ],
+    "khandwa/396": [
+        "amravati/117",
+        "betul/173",
+        "burhanpur/201",
+        "dewas/249",
+        "harda/320",
+        "khargone/397"
+    ],
+    "khargone/397": [
+        "barwani/164",
+        "burhanpur/201",
+        "dewas/249",
+        "dhar/253",
+        "indore/335",
+        "jalgaon/343",
+        "khandwa/396"
+    ],
+    "khawzawl/398": [
+        "champhai/207",
+        "saitual/596",
+        "serchhip/612",
+        "saitual/596"
+    ],
+    "kheda/399": [
+        "ahmedabad/103",
+        "anand/121",
+        "aravalli/128",
+        "gandhinagar/292",
+        "mahisagar/460",
+        "panchmahal/526",
+        "vadodara/702"
+    ],
+    "khordha/400": [
+        "cuttack/229",
+        "ganjam/294",
+        "nayagarh/508",
+        "puri/556"
+    ],
+    "khowai/401": [
+        "dhalai/250",
+        "gomati/305",
+        "sipahijala/634",
+        "west tripura/724"
+    ],
+    "khunti/402": [
+        "gumla/310",
+        "ranchi/575",
+        "saraikela-kharsawan/605",
+        "simdega/631",
+        "west singhbhum/723"
+    ],
+    "kinnaur/403": [
+        "kullu/427",
+        "lahaul and spiti/434",
+        "shimla/622",
+        "uttarkashi/701"
+    ],
+    "kiphire/404": [
+        "phek/541",
+        "tuensang/684",
+        "zunheboto/731"
+    ],
+    "kishanganj/405": [
+        "araria/127",
+        "darjeeling/239",
+        "purnia/557",
+        "uttar dinajpur/699"
+    ],
+    "kishtwar/406": [
+        "anantnag/123",
+        "chamba/204",
+        "doda/263",
+        "kargil/384",
+        "lahaul and spiti/434"
+    ],
+    "kodagu/407": [
+        "dakshina kannada/234",
+        "hassan/323",
+        "kannur/377",
+        "kasaragod/387",
+        "mysuru/490",
+        "wayanad/715"
+    ],
+    "koderma/408": [
+        "gaya/299",
+        "giridih/303",
+        "hazaribagh/326",
+        "nawada/507"
+    ],
+    "kohima/409": [
+        "dimapur/259",
+        "peren/540",
+        "phek/541",
+        "wokha/725",
+        "zunheboto/731"
+    ],
+    "kolar/410": [
+        "bengaluru rural/171",
+        "chikkaballapura/219",
+        "chittoor/223",
+        "krishnagiri/425"
+    ],
+    "kolasib/411": [
+        "aizawl/105",
+        "mamit/466"
+    ],
+    "kolhapur/412": [
+        "belagavi/170",
+        "ratnagiri/578",
+        "sangli/602",
+        "sindhudurg/632"
+    ],
+    "kolkata/413": [
+        "howrah/333",
+        "north 24 parganas/512",
+        "south 24 parganas/646"
+    ],
+    "kollam/414": [
+        "alappuzha/108",
+        "pathanamthitta/534",
+        "thiruvananthapuram/672",
+        "tenkasi/667"
+    ],
+    "kondagaon/415": [
+        "bastar/165",
+        "dakshin bastar dantewada/232",
+        "dhamtari/251",
+        "nabarangapur/491",
+        "narayanpur/502",
+        "uttar bastar kanker/698"
+    ],
+    "koppal/416": [
+        "bagalkote/137",
+        "ballari/144",
+        "gadag/288",
+        "raichur/560"
+    ],
+    "koraput/417": [
+        "bastar/165",
+        "kalahandi/369",
+        "malkangiri/465",
+        "nabarangapur/491",
+        "rayagada/579",
+        "visakhapatnam/711",
+        "vizianagaram/712"
+    ],
+    "korba/418": [
+        "bilaspur/191",
+        "janjgir champa/351",
+        "koriya/419",
+        "raigarh/562",
+        "surajpur/659",
+        "surguja/662",
+        "gaurela pendra marwahi/297"
+    ],
+    "koriya/419": [
+        "anuppur/126",
+        "bilaspur/191",
+        "korba/418",
+        "shahdol/613",
+        "sidhi/629",
+        "singrauli/633",
+        "surajpur/659",
+        "gaurela pendra marwahi/297"
+    ],
+    "kota/420": [
+        "baran/159",
+        "bundi/200",
+        "chittorgarh/224",
+        "jhalawar/357",
+        "mandsaur/469",
+        "sawai madhopur/609",
+        "sheopur/620"
+    ],
+    "kottayam/421": [
+        "alappuzha/108",
+        "ernakulam/275",
+        "idukki/334",
+        "pathanamthitta/534"
+    ],
+    "kozhikode/422": [
+        "kannur/377",
+        "mahe/458",
+        "malappuram/463",
+        "wayanad/715"
+    ],
+    "kra daadi/423": [
+        "kamle/372",
+        "kurung kumey/431",
+        "lower subansiri/449",
+        "papum pare/529",
+        "upper subansiri/697"
+    ],
+    "krishna/424": [
+        "guntur/312",
+        "west godavari/718"
+    ],
+    "krishnagiri/425": [
+        "bengaluru rural/171",
+        "bengaluru urban/172",
+        "chamarajanagara/203",
+        "chittoor/223",
+        "dharmapuri/254",
+        "kolar/410",
+        "ramanagara/570",
+        "tiruvannamalai/682",
+        "tirupathur/680"
+    ],
+    "kulgam/426": [
+        "anantnag/123",
+        "budgam/197",
+        "punch/552",
+        "rajouri/568",
+        "ramban/572",
+        "reasi/580",
+        "shopiyan/625"
+    ],
+    "kullu/427": [
+        "kangra/375",
+        "kinnaur/403",
+        "lahaul and spiti/434",
+        "mandi/467",
+        "shimla/622"
+    ],
+    "kupwara/428": [
+        "bandipora/153",
+        "baramulla/158"
+    ],
+    "kurnool/429": [
+        "anantapur/122",
+        "ballari/144",
+        "prakasam/545",
+        "raichur/560",
+        "y.s.r. kadapa/726"
+    ],
+    "kurukshetra/430": [
+        "ambala/114",
+        "kaithal/367",
+        "karnal/385",
+        "patiala/536",
+        "yamunanagar/728"
+    ],
+    "kurung kumey/431": [
+        "east kameng/271",
+        "kra daadi/423",
+        "papum pare/529",
+        "upper subansiri/697"
+    ],
+    "kushinagar/432": [
+        "deoria/247",
+        "gopalganj/308",
+        "gorakhpur/309",
+        "maharajganj/456",
+        "west champaran/716"
+    ],
+    "kutch/433": [
+        "banaskantha/151",
+        "barmer/162",
+        "jalore/345",
+        "morbi/482",
+        "patan/533",
+        "surendranagar/661"
+    ],
+    "lahaul and spiti/434": [
+        "chamba/204",
+        "kangra/375",
+        "kargil/384",
+        "kinnaur/403",
+        "kishtwar/406",
+        "kullu/427",
+        "leh/441"
+    ],
+    "lakhimpur kheri/435": [
+        "kamle/372",
+        "papum pare/529"
+    ],
+    "lakhisarai/436": [
+        "begusarai/169",
+        "jamui/350",
+        "munger/486",
+        "nalanda/497",
+        "patna/537",
+        "sheikhpura/618"
+    ],
+    "lalitpur/437": [
+        "ashoknagar/131",
+        "chhatarpur/216",
+        "datia/240",
+        "jhansi/358",
+        "niwari/511",
+        "sagar/591",
+        "shivpuri/624",
+        "tikamgarh/676"
+    ],
+    "latehar/438": [
+        "balrampur/149",
+        "chatra/213",
+        "garhwa/295",
+        "gumla/310",
+        "lohardaga/443",
+        "palamu/521",
+        "ranchi/575"
+    ],
+    "latur/439": [
+        "bidar/186",
+        "boudh/195",
+        "nanded/500",
+        "osmanabad/517",
+        "parbhani/530"
+    ],
+    "lawngtlai/440": [
+        "lunglei/452",
+        "saiha/595"
+    ],
+    "leh/441": [
+        "kargil/384",
+        "lahaul and spiti/434"
+    ],
+    "lepa rada/442": [
+        "lower siang/448",
+        "upper subansiri/697",
+        "west siang/722"
+    ],
+    "lohardaga/443": [
+        "gumla/310",
+        "latehar/438",
+        "ranchi/575"
+    ],
+    "lohit/444": [
+        "anjaw/125",
+        "changlang/211",
+        "lower dibang valley/447",
+        "namsai/499"
+    ],
+    "longding/445": [
+        "mon/480",
+        "tirap/677"
+    ],
+    "longleng/446": [
+        "mokokchung/479",
+        "mon/480",
+        "tuensang/684"
+    ],
+    "lower dibang valley/447": [
+        "east siang/273",
+        "lohit/444",
+        "upper dibang valley/695",
+        "upper siang/696"
+    ],
+    "lower siang/448": [
+        "east siang/273",
+        "kamle/372",
+        "lepa rada/442",
+        "siang/627",
+        "upper subansiri/697",
+        "west siang/722"
+    ],
+    "lower subansiri/449": [
+        "kamle/372",
+        "kra daadi/423",
+        "papum pare/529"
+    ],
+    "lucknow/450": [
+        "barabanki/157",
+        "hardoi/321",
+        "rae bareli/559",
+        "sitapur/639",
+        "unnao/693"
+    ],
+    "ludhiana/451": [
+        "barnala/163",
+        "fatehgarh sahib/283",
+        "jalandhar/341",
+        "moga/478",
+        "rupnagar/587",
+        "sangrur/603",
+        "shahid bhagat singh nagar/614"
+    ],
+    "lunglei/452": [
+        "aizawl/105",
+        "lawngtlai/440",
+        "mamit/466",
+        "serchhip/612",
+        "hnahthial/329"
+    ],
+    "madhepura/453": [
+        "araria/127",
+        "bhagalpur/176",
+        "khagaria/395",
+        "purnia/557",
+        "saharsa/593",
+        "supaul/658"
+    ],
+    "madhubani/454": [
+        "darbhanga/238",
+        "saharsa/593",
+        "sitamarhi/638",
+        "supaul/658"
+    ],
+    "madurai/455": [
+        "dindigul/260",
+        "sivaganga/640",
+        "theni/670",
+        "tiruchirappalli/678",
+        "virudhunagar/710"
+    ],
+    "maharajganj/456": [
+        "gorakhpur/309",
+        "kushinagar/432",
+        "siddharthnagar/628",
+        "west champaran/716"
+    ],
+    "mahasamund/457": [
+        "baloda bazar/147",
+        "bargarh/161",
+        "gariaband/296",
+        "nuapada/515",
+        "raigarh/562",
+        "raipur/563"
+    ],
+    "mahe/458": [
+        "kannur/377",
+        "kozhikode/422"
+    ],
+    "mahendragarh/459": [
+        "alwar/113",
+        "bhiwani/183",
+        "charkhi dadri/212",
+        "jaipur/338",
+        "jhajjar/356",
+        "jhunjhunu/361",
+        "rewari/582",
+        "sikar/630"
+    ],
+    "mahisagar/460": [
+        "aravalli/128",
+        "banswara/156",
+        "dahod/231",
+        "dungarpur/265",
+        "kheda/399",
+        "panchmahal/526"
+    ],
+    "mahoba/461": [
+        "banda/152",
+        "chhatarpur/216",
+        "hamirpur/317",
+        "jhansi/358"
+    ],
+    "mainpuri/462": [
+        "etah/277",
+        "etawah/278",
+        "farrukhabad/281",
+        "firozabad/287",
+        "kannauj/376"
+    ],
+    "malappuram/463": [
+        "kozhikode/422",
+        "nilgiris/510",
+        "palakkad/520",
+        "thrissur/675",
+        "wayanad/715"
+    ],
+    "malda/464": [
+        "dakshin dinajpur/233",
+        "katihar/390",
+        "murshidabad/487",
+        "sahibganj/594",
+        "uttar dinajpur/699"
+    ],
+    "malkangiri/465": [
+        "bastar/165",
+        "east godavari/269",
+        "koraput/417",
+        "sukma/655",
+        "visakhapatnam/711"
+    ],
+    "mamit/466": [
+        "aizawl/105",
+        "kolasib/411",
+        "lunglei/452",
+        "north tripura/514"
+    ],
+    "mandi/467": [
+        "bilaspur/190",
+        "hamirpur/316",
+        "kangra/375",
+        "kullu/427",
+        "shimla/622",
+        "solan/642"
+    ],
+    "mandla/468": [
+        "balaghat/141",
+        "dindori/261",
+        "jabalpur/336",
+        "kabeerdham/365",
+        "seoni/611"
+    ],
+    "mandsaur/469": [
+        "chittorgarh/224",
+        "jhalawar/357",
+        "kota/420",
+        "neemuch/509",
+        "pratapgarh/547",
+        "ratlam/577"
+    ],
+    "mandya/470": [
+        "chamarajanagara/203",
+        "hassan/323",
+        "mysuru/490",
+        "ramanagara/570",
+        "tumakuru/685"
+    ],
+    "mansa/471": [
+        "barnala/163",
+        "bathinda/167",
+        "fatehabad/282",
+        "sangrur/603",
+        "sirsa/637"
+    ],
+    "mathura/472": [
+        "agra/102",
+        "aligarh/109",
+        "bharatpur/178",
+        "hathras/324",
+        "nuh/516",
+        "palwal/524"
+    ],
+    "mau/473": [
+        "azamgarh/136",
+        "ballia/145",
+        "deoria/247",
+        "ghazipur/301",
+        "gorakhpur/309"
+    ],
+    "mayurbhanj/474": [
+        "balasore/143",
+        "east singhbhum/274",
+        "jhargram/359",
+        "kendujhar/394",
+        "saraikela-kharsawan/605",
+        "west singhbhum/723"
+    ],
+    "meerut/475": [
+        "amroha/120",
+        "baghpat/139",
+        "bijnor/188",
+        "ghaziabad/300",
+        "hapur/319",
+        "muzaffarnagar/488"
+    ],
+    "mehsana/476": [
+        "ahmedabad/103",
+        "banaskantha/151",
+        "gandhinagar/292",
+        "patan/533",
+        "sabarkantha/590",
+        "surendranagar/661"
+    ],
+    "mirzapur/477": [
+        "bhadohi/174",
+        "chandauli/208",
+        "prayagraj/548",
+        "rewa/581",
+        "singrauli/633",
+        "sonbhadra/644",
+        "varanasi/705"
+    ],
+    "moga/478": [
+        "barnala/163",
+        "bathinda/167",
+        "faridkot/280",
+        "ferozepur/286",
+        "jalandhar/341",
+        "ludhiana/451"
+    ],
+    "mokokchung/479": [
+        "longleng/446",
+        "tuensang/684",
+        "wokha/725",
+        "zunheboto/731"
+    ],
+    "mon/480": [
+        "longding/445",
+        "longleng/446",
+        "tuensang/684"
+    ],
+    "moradabad/481": [
+        "amroha/120",
+        "bijnor/188",
+        "budaun/196",
+        "rampur/574",
+        "sambhal/601",
+        "udham singh nagar/687"
+    ],
+    "morbi/482": [
+        "jamnagar/348",
+        "kutch/433",
+        "rajkot/566",
+        "surendranagar/661"
+    ],
+    "morena/483": [
+        "agra/102",
+        "bhind/182",
+        "dholpur/257",
+        "gwalior/315",
+        "karauli/383",
+        "sheopur/620",
+        "shivpuri/624"
+    ],
+    "mumbai/484": [
+        "thane/668"
+    ],
+    "mungeli/485": [
+        "anuppur/126",
+        "baloda bazar/147",
+        "bametara/150",
+        "bilaspur/191",
+        "dindori/261",
+        "kabeerdham/365",
+        "gaurela pendra marwahi/297"
+    ],
+    "munger/486": [
+        "banka/154",
+        "begusarai/169",
+        "bhagalpur/176",
+        "jamui/350",
+        "khagaria/395",
+        "lakhisarai/436"
+    ],
+    "murshidabad/487": [
+        "birbhum/192",
+        "malda/464",
+        "nadia/492",
+        "pakur/519",
+        "purba bardhaman/554",
+        "sahibganj/594"
+    ],
+    "muzaffarnagar/488": [
+        "baghpat/139",
+        "bijnor/188",
+        "haridwar/322",
+        "meerut/475",
+        "saharanpur/592",
+        "shamli/617"
+    ],
+    "muzaffarpur/489": [
+        "darbhanga/238",
+        "east champaran/267",
+        "gopalganj/308",
+        "samastipur/598",
+        "saran/606",
+        "sheohar/619",
+        "sitamarhi/638",
+        "vaishali/703"
+    ],
+    "mysuru/490": [
+        "chamarajanagara/203",
+        "hassan/323",
+        "kodagu/407",
+        "mandya/470",
+        "wayanad/715"
+    ],
+    "nabarangapur/491": [
+        "bastar/165",
+        "dhamtari/251",
+        "gariaband/296",
+        "kalahandi/369",
+        "kondagaon/415",
+        "koraput/417"
+    ],
+    "nadia/492": [
+        "hooghly/330",
+        "murshidabad/487",
+        "north 24 parganas/512",
+        "purba bardhaman/554"
+    ],
+    "nagapattinam/493": [
+        "cuddalore/228",
+        "karaikal/382",
+        "thanjavur/669",
+        "thiruvarur/673"
+    ],
+    "nagaur/494": [
+        "ajmer/106",
+        "bikaner/189",
+        "churu/225",
+        "jaipur/338",
+        "jodhpur/363",
+        "pali/523",
+        "sikar/630"
+    ],
+    "nagpur/495": [
+        "amravati/117",
+        "balaghat/141",
+        "bhandara/177",
+        "chandrapur/210",
+        "chhindwara/217",
+        "seoni/611",
+        "wardha/713"
+    ],
+    "nainital/496": [
+        "almora/112",
+        "bijnor/188",
+        "champawat/206",
+        "pauri garhwal/538",
+        "udham singh nagar/687"
+    ],
+    "nalanda/497": [
+        "gaya/299",
+        "jehanabad/354",
+        "lakhisarai/436",
+        "nawada/507",
+        "patna/537",
+        "sheikhpura/618"
+    ],
+    "namakkal/498": [
+        "erode/276",
+        "karur/386",
+        "salem/597",
+        "tiruchirappalli/678"
+    ],
+    "namsai/499": [
+        "changlang/211",
+        "lohit/444"
+    ],
+    "nanded/500": [
+        "bidar/186",
+        "hingoli/327",
+        "latur/439",
+        "parbhani/530",
+        "yavatmal/730"
+    ],
+    "nandurbar/501": [
+        "alirajpur/111",
+        "barwani/164",
+        "chhota udaipur/218",
+        "dhule/258",
+        "narmada/503",
+        "tapi/663"
+    ],
+    "narayanpur/502": [
+        "bijapur/187",
+        "dakshin bastar dantewada/232",
+        "gadchiroli/289",
+        "kondagaon/415",
+        "uttar bastar kanker/698"
+    ],
+    "narmada/503": [
+        "bharuch/179",
+        "chhota udaipur/218",
+        "nandurbar/501",
+        "surat/660",
+        "tapi/663",
+        "vadodara/702"
+    ],
+    "narsinghpur/504": [
+        "chhindwara/217",
+        "damoh/236",
+        "hoshangabad/331",
+        "jabalpur/336",
+        "raisen/564",
+        "sagar/591",
+        "seoni/611"
+    ],
+    "nashik/505": [
+        "ahmednagar/104",
+        "aurangabad/134",
+        "dang/237",
+        "dhule/258",
+        "jalgaon/343",
+        "palghar/522",
+        "thane/668",
+        "valsad/704"
+    ],
+    "navsari/506": [
+        "kaimur/366"
+    ],
+    "nawada/507": [
+        "gaya/299",
+        "giridih/303",
+        "jamui/350",
+        "koderma/408",
+        "nalanda/497",
+        "sheikhpura/618"
+    ],
+    "nayagarh/508": [
+        "angul/124",
+        "beed/168",
+        "cuttack/229",
+        "ganjam/294",
+        "kandhamal/374",
+        "khordha/400"
+    ],
+    "neemuch/509": [
+        "bhilwara/181",
+        "chittorgarh/224",
+        "mandsaur/469",
+        "pratapgarh/547"
+    ],
+    "nilgiris/510": [
+        "chamarajanagara/203",
+        "coimbatore/226",
+        "erode/276",
+        "malappuram/463",
+        "palakkad/520",
+        "wayanad/715"
+    ],
+    "niwari/511": [
+        "jhansi/358",
+        "lalitpur/437",
+        "tikamgarh/676"
+    ],
+    "north 24 parganas/512": [
+        "hooghly/330",
+        "howrah/333",
+        "kolkata/413",
+        "nadia/492",
+        "south 24 parganas/646"
+    ],
+    "north garo hills/513": [
+        "east garo hills/268",
+        "kaimur/366",
+        "west garo hills/717",
+        "west khasi hills/721"
+    ],
+    "north tripura/514": [
+        "dhalai/250",
+        "mamit/466",
+        "unokoti/694"
+    ],
+    "nuapada/515": [
+        "balangir/142",
+        "bargarh/161",
+        "gariaband/296",
+        "kalahandi/369",
+        "mahasamund/457"
+    ],
+    "nuh/516": [
+        "alwar/113",
+        "bharatpur/178",
+        "gurugram/314",
+        "mathura/472",
+        "palwal/524",
+        "rewari/582"
+    ],
+    "osmanabad/517": [
+        "ahmednagar/104",
+        "bidar/186",
+        "boudh/195",
+        "kalaburagi/368",
+        "latur/439",
+        "solapur/643"
+    ],
+    "pakke kessang/518": [
+        "east kameng/271",
+        "papum pare/529",
+        "west kameng/720"
+    ],
+    "pakur/519": [
+        "birbhum/192",
+        "dumka/264",
+        "godda/304",
+        "murshidabad/487",
+        "sahibganj/594"
+    ],
+    "palakkad/520": [
+        "coimbatore/226",
+        "malappuram/463",
+        "nilgiris/510",
+        "thrissur/675"
+    ],
+    "palamu/521": [
+        "aurangabad/133",
+        "chatra/213",
+        "garhwa/295",
+        "gaya/299",
+        "latehar/438",
+        "rohtas/585"
+    ],
+    "palghar/522": [
+        "dadra and nagar haveli/230",
+        "nashik/505",
+        "thane/668",
+        "valsad/704"
+    ],
+    "pali/523": [
+        "ajmer/106",
+        "barmer/162",
+        "jalore/345",
+        "jodhpur/363",
+        "nagaur/494",
+        "rajsamand/569",
+        "sirohi/636",
+        "udaipur/686"
+    ],
+    "palwal/524": [
+        "aligarh/109",
+        "faridabad/279",
+        "gautam buddha nagar/298",
+        "gurugram/314",
+        "mathura/472",
+        "nuh/516"
+    ],
+    "panchkula/525": [
+        "ambala/114",
+        "chandigarh/209",
+        "s.a.s. nagar/588",
+        "sirmaur/635",
+        "solan/642"
+    ],
+    "panchmahal/526": [
+        "chhota udaipur/218",
+        "dahod/231",
+        "kheda/399",
+        "mahisagar/460",
+        "vadodara/702"
+    ],
+    "panipat/527": [
+        "baghpat/139",
+        "jind/362",
+        "karnal/385",
+        "shamli/617",
+        "sonipat/645"
+    ],
+    "panna/528": [
+        "banda/152",
+        "chhatarpur/216",
+        "damoh/236",
+        "katni/391",
+        "satna/608"
+    ],
+    "papum pare/529": [
+        "east kameng/271",
+        "kamle/372",
+        "kra daadi/423",
+        "kurung kumey/431",
+        "lakhimpur kheri/435",
+        "lower subansiri/449",
+        "pakke kessang/518"
+    ],
+    "parbhani/530": [
+        "boudh/195",
+        "buldhana/199",
+        "hingoli/327",
+        "jalna/344",
+        "latur/439",
+        "nanded/500",
+        "washim/714"
+    ],
+    "paschim bardhaman/531": [
+        "bankura/155",
+        "birbhum/192",
+        "dhanbad/252",
+        "jamtara/349",
+        "purba bardhaman/554",
+        "purulia/558"
+    ],
+    "paschim medinipur/532": [
+        "balasore/143",
+        "bankura/155",
+        "hooghly/330",
+        "howrah/333",
+        "jhargram/359",
+        "purba medinipur/555"
+    ],
+    "patan/533": [
+        "banaskantha/151",
+        "kutch/433",
+        "mehsana/476",
+        "surendranagar/661"
+    ],
+    "pathanamthitta/534": [
+        "alappuzha/108",
+        "idukki/334",
+        "kollam/414",
+        "kottayam/421",
+        "tirunelveli/679"
+    ],
+    "pathankot/535": [
+        "chamba/204",
+        "gurdaspur/313",
+        "kangra/375",
+        "kathua/389"
+    ],
+    "patiala/536": [
+        "ambala/114",
+        "fatehgarh sahib/283",
+        "jind/362",
+        "kaithal/367",
+        "kurukshetra/430",
+        "s.a.s. nagar/588",
+        "sangrur/603"
+    ],
+    "patna/537": [
+        "arwal/130",
+        "begusarai/169",
+        "bhojpur/184",
+        "jehanabad/354",
+        "lakhisarai/436",
+        "nalanda/497",
+        "samastipur/598",
+        "saran/606",
+        "vaishali/703"
+    ],
+    "pauri garhwal/538": [
+        "almora/112",
+        "bijnor/188",
+        "chamoli/205",
+        "dehradun/243",
+        "haridwar/322",
+        "nainital/496",
+        "rudraprayag/586",
+        "tehri garhwal/666"
+    ],
+    "perambalur/539": [
+        "ariyalur/129",
+        "cuddalore/228",
+        "kallakurichi/371",
+        "salem/597",
+        "tiruchirappalli/678"
+    ],
+    "peren/540": [
+        "dimapur/259",
+        "kohima/409"
+    ],
+    "phek/541": [
+        "kiphire/404",
+        "kohima/409",
+        "zunheboto/731"
+    ],
+    "pilibhit/542": [
+        "bareilly/160",
+        "shahjahanpur/615",
+        "udham singh nagar/687"
+    ],
+    "pithoragarh/543": [
+        "almora/112",
+        "bageshwar/138",
+        "chamoli/205",
+        "champawat/206"
+    ],
+    "porbandar/544": [
+        "devbhumi dwarka/248",
+        "jamnagar/348",
+        "junagadh/364",
+        "rajkot/566"
+    ],
+    "prakasam/545": [
+        "guntur/312",
+        "kurnool/429",
+        "s.p.s. nellore/589",
+        "y.s.r. kadapa/726"
+    ],
+    "pratapgarh/546": [
+        "amethi/116",
+        "fatehpur/284",
+        "jaunpur/353",
+        "kaushambi/392",
+        "prayagraj/548",
+        "rae bareli/559",
+        "sultanpur/656"
+    ],
+    "pratapgarh/547": [
+        "banswara/156",
+        "chittorgarh/224",
+        "dungarpur/265",
+        "mandsaur/469",
+        "neemuch/509",
+        "ratlam/577",
+        "udaipur/686"
+    ],
+    "prayagraj/548": [
+        "bhadohi/174",
+        "chitrakoot/222",
+        "jaunpur/353",
+        "kaushambi/392",
+        "mirzapur/477",
+        "pratapgarh/546",
+        "rewa/581"
+    ],
+    "puducherry/549": [
+        "cuddalore/228",
+        "viluppuram/709"
+    ],
+    "pudukkottai/550": [
+        "ramanathapuram/571",
+        "sivaganga/640",
+        "thanjavur/669",
+        "tiruchirappalli/678"
+    ],
+    "pulwama/551": [
+        "anantnag/123",
+        "budgam/197",
+        "shopiyan/625",
+        "srinagar/653"
+    ],
+    "punch/552": [
+        "baramulla/158",
+        "budgam/197",
+        "kulgam/426",
+        "rajouri/568",
+        "reasi/580"
+    ],
+    "pune/553": [
+        "ahmednagar/104",
+        "raigad/561",
+        "satara/607",
+        "solapur/643",
+        "thane/668"
+    ],
+    "purba bardhaman/554": [
+        "bankura/155",
+        "birbhum/192",
+        "hooghly/330",
+        "murshidabad/487",
+        "nadia/492",
+        "paschim bardhaman/531"
+    ],
+    "purba medinipur/555": [
+        "balasore/143",
+        "howrah/333",
+        "paschim medinipur/532",
+        "south 24 parganas/646"
+    ],
+    "puri/556": [
+        "cuttack/229",
+        "ganjam/294",
+        "jagatsinghpur/337",
+        "khordha/400"
+    ],
+    "purnia/557": [
+        "araria/127",
+        "bhagalpur/176",
+        "katihar/390",
+        "kishanganj/405",
+        "madhepura/453",
+        "uttar dinajpur/699"
+    ],
+    "purulia/558": [
+        "bankura/155",
+        "bokaro/193",
+        "dhanbad/252",
+        "east singhbhum/274",
+        "jhargram/359",
+        "paschim bardhaman/531",
+        "ramgarh/573",
+        "ranchi/575",
+        "saraikela-kharsawan/605"
+    ],
+    "rae bareli/559": [
+        "amethi/116",
+        "barabanki/157",
+        "fatehpur/284",
+        "kaushambi/392",
+        "lucknow/450",
+        "pratapgarh/546",
+        "unnao/693"
+    ],
+    "raichur/560": [
+        "bagalkote/137",
+        "ballari/144",
+        "koppal/416",
+        "kurnool/429",
+        "vijayapura/708",
+        "yadgir/727"
+    ],
+    "raigad/561": [
+        "pune/553",
+        "ratnagiri/578",
+        "satara/607",
+        "thane/668"
+    ],
+    "raigarh/562": [
+        "baloda bazar/147",
+        "bargarh/161",
+        "janjgir champa/351",
+        "jashpur/352",
+        "jharsuguda/360",
+        "korba/418",
+        "mahasamund/457",
+        "sundargarh/657",
+        "surguja/662"
+    ],
+    "raipur/563": [
+        "baloda bazar/147",
+        "bametara/150",
+        "dhamtari/251",
+        "durg/266",
+        "gariaband/296",
+        "mahasamund/457"
+    ],
+    "raisen/564": [
+        "bhopal/185",
+        "hoshangabad/331",
+        "narsinghpur/504",
+        "sagar/591",
+        "sehore/610",
+        "vidisha/707"
+    ],
+    "rajgarh/565": [
+        "agar malwa/101",
+        "bhopal/185",
+        "guna/311",
+        "jhalawar/357",
+        "sehore/610",
+        "shajapur/616"
+    ],
+    "rajkot/566": [
+        "amreli/118",
+        "botad/194",
+        "jamnagar/348",
+        "junagadh/364",
+        "morbi/482",
+        "porbandar/544",
+        "surendranagar/661"
+    ],
+    "rajnandgaon/567": [
+        "balaghat/141",
+        "balod/146",
+        "bametara/150",
+        "durg/266",
+        "gadchiroli/289",
+        "gondia/307",
+        "kabeerdham/365",
+        "uttar bastar kanker/698"
+    ],
+    "rajouri/568": [
+        "jammu/347",
+        "kulgam/426",
+        "punch/552",
+        "reasi/580"
+    ],
+    "rajsamand/569": [
+        "ajmer/106",
+        "bhilwara/181",
+        "chittorgarh/224",
+        "pali/523",
+        "udaipur/686"
+    ],
+    "ramanagara/570": [
+        "bengaluru rural/171",
+        "bengaluru urban/172",
+        "chamarajanagara/203",
+        "krishnagiri/425",
+        "mandya/470",
+        "tumakuru/685"
+    ],
+    "ramanathapuram/571": [
+        "pudukkottai/550",
+        "sivaganga/640",
+        "thoothukkudi/674",
+        "virudhunagar/710"
+    ],
+    "ramban/572": [
+        "anantnag/123",
+        "doda/263",
+        "kulgam/426",
+        "reasi/580",
+        "udhampur/688"
+    ],
+    "ramgarh/573": [
+        "bokaro/193",
+        "hazaribagh/326",
+        "purulia/558",
+        "ranchi/575"
+    ],
+    "rampur/574": [
+        "bareilly/160",
+        "budaun/196",
+        "moradabad/481",
+        "udham singh nagar/687"
+    ],
+    "ranchi/575": [
+        "chatra/213",
+        "gumla/310",
+        "hazaribagh/326",
+        "khunti/402",
+        "latehar/438",
+        "lohardaga/443",
+        "purulia/558",
+        "ramgarh/573",
+        "saraikela-kharsawan/605"
+    ],
+    "ranipet/576": [
+        "kancheepuram/373",
+        "thiruvallur/671",
+        "tiruvannamalai/682",
+        "vellore/706"
+    ],
+    "ratlam/577": [
+        "agar malwa/101",
+        "banswara/156",
+        "dhar/253",
+        "jhabua/355",
+        "jhalawar/357",
+        "mandsaur/469",
+        "pratapgarh/547",
+        "ujjain/690"
+    ],
+    "ratnagiri/578": [
+        "kolhapur/412",
+        "raigad/561",
+        "sangli/602",
+        "satara/607",
+        "sindhudurg/632"
+    ],
+    "rayagada/579": [
+        "gajapati/290",
+        "kalahandi/369",
+        "kandhamal/374",
+        "koraput/417",
+        "srikakulam/652",
+        "vizianagaram/712"
+    ],
+    "reasi/580": [
+        "jammu/347",
+        "kulgam/426",
+        "punch/552",
+        "rajouri/568",
+        "ramban/572",
+        "udhampur/688"
+    ],
+    "rewa/581": [
+        "chitrakoot/222",
+        "mirzapur/477",
+        "prayagraj/548",
+        "satna/608",
+        "sidhi/629",
+        "singrauli/633"
+    ],
+    "rewari/582": [
+        "alwar/113",
+        "gurugram/314",
+        "jhajjar/356",
+        "mahendragarh/459",
+        "nuh/516"
+    ],
+    "ribhoi/583": [
+        "east khasi hills/272",
+        "kaimur/366",
+        "west jaintia hills/719",
+        "west khasi hills/721"
+    ],
+    "rohtak/584": [
+        "bhiwani/183",
+        "charkhi dadri/212",
+        "hisar/328",
+        "jhajjar/356",
+        "jind/362",
+        "sonipat/645"
+    ],
+    "rohtas/585": [
+        "arwal/130",
+        "aurangabad/133",
+        "bhojpur/184",
+        "buxar/202",
+        "garhwa/295",
+        "palamu/521",
+        "sonbhadra/644"
+    ],
+    "rudraprayag/586": [
+        "chamoli/205",
+        "pauri garhwal/538",
+        "tehri garhwal/666",
+        "uttarkashi/701"
+    ],
+    "rupnagar/587": [
+        "bilaspur/190",
+        "fatehgarh sahib/283",
+        "hoshiarpur/332",
+        "ludhiana/451",
+        "s.a.s. nagar/588",
+        "shahid bhagat singh nagar/614",
+        "solan/642",
+        "una/692"
+    ],
+    "s.a.s. nagar/588": [
+        "ambala/114",
+        "chandigarh/209",
+        "fatehgarh sahib/283",
+        "panchkula/525",
+        "patiala/536",
+        "rupnagar/587",
+        "solan/642"
+    ],
+    "s.p.s. nellore/589": [
+        "chittoor/223",
+        "prakasam/545",
+        "thiruvallur/671",
+        "y.s.r. kadapa/726"
+    ],
+    "sabarkantha/590": [
+        "aravalli/128",
+        "banaskantha/151",
+        "gandhinagar/292",
+        "mehsana/476",
+        "sirohi/636",
+        "udaipur/686"
+    ],
+    "sagar/591": [
+        "ashoknagar/131",
+        "chhatarpur/216",
+        "damoh/236",
+        "lalitpur/437",
+        "narsinghpur/504",
+        "raisen/564",
+        "vidisha/707"
+    ],
+    "saharanpur/592": [
+        "dehradun/243",
+        "haridwar/322",
+        "karnal/385",
+        "muzaffarnagar/488",
+        "shamli/617",
+        "sirmaur/635",
+        "yamunanagar/728"
+    ],
+    "saharsa/593": [
+        "darbhanga/238",
+        "khagaria/395",
+        "madhepura/453",
+        "madhubani/454",
+        "samastipur/598",
+        "supaul/658"
+    ],
+    "sahibganj/594": [
+        "bhagalpur/176",
+        "godda/304",
+        "katihar/390",
+        "malda/464",
+        "murshidabad/487",
+        "pakur/519"
+    ],
+    "saiha/595": [
+        "lawngtlai/440"
+    ],
+    "saitual/596": [
+        "aizawl/105",
+        "champhai/207",
+        "khawzawl/398",
+        "khawzawl/398",
+        "serchhip/612"
+    ],
+    "salem/597": [
+        "chamarajanagara/203",
+        "dharmapuri/254",
+        "erode/276",
+        "kallakurichi/371",
+        "namakkal/498",
+        "perambalur/539",
+        "tiruchirappalli/678"
+    ],
+    "samastipur/598": [
+        "begusarai/169",
+        "darbhanga/238",
+        "khagaria/395",
+        "muzaffarpur/489",
+        "patna/537",
+        "saharsa/593",
+        "vaishali/703"
+    ],
+    "samba/599": [
+        "jammu/347",
+        "kathua/389",
+        "udhampur/688"
+    ],
+    "sambalpur/600": [
+        "angul/124",
+        "bargarh/161",
+        "deogarh/245",
+        "jharsuguda/360",
+        "subarnapur/654",
+        "sundargarh/657"
+    ],
+    "sambhal/601": [
+        "aligarh/109",
+        "amroha/120",
+        "budaun/196",
+        "bulandshahr/198",
+        "moradabad/481"
+    ],
+    "sangli/602": [
+        "belagavi/170",
+        "kolhapur/412",
+        "ratnagiri/578",
+        "satara/607",
+        "solapur/643",
+        "vijayapura/708"
+    ],
+    "sangrur/603": [
+        "barnala/163",
+        "fatehabad/282",
+        "fatehgarh sahib/283",
+        "jind/362",
+        "ludhiana/451",
+        "mansa/471",
+        "patiala/536"
+    ],
+    "sant kabir nagar/604": [
+        "ambedkar nagar/115",
+        "basti/166",
+        "gorakhpur/309",
+        "siddharthnagar/628"
+    ],
+    "saraikela-kharsawan/605": [
+        "east singhbhum/274",
+        "khunti/402",
+        "mayurbhanj/474",
+        "purulia/558",
+        "ranchi/575",
+        "west singhbhum/723"
+    ],
+    "saran/606": [
+        "ballia/145",
+        "bhojpur/184",
+        "gopalganj/308",
+        "muzaffarpur/489",
+        "patna/537",
+        "siwan/641",
+        "vaishali/703"
+    ],
+    "satara/607": [
+        "pune/553",
+        "raigad/561",
+        "ratnagiri/578",
+        "sangli/602",
+        "solapur/643"
+    ],
+    "satna/608": [
+        "banda/152",
+        "chitrakoot/222",
+        "katni/391",
+        "panna/528",
+        "rewa/581",
+        "shahdol/613",
+        "sidhi/629",
+        "umaria/691"
+    ],
+    "sawai madhopur/609": [
+        "bundi/200",
+        "dausa/241",
+        "karauli/383",
+        "kota/420",
+        "sheopur/620",
+        "tonk/683"
+    ],
+    "sehore/610": [
+        "bhopal/185",
+        "dewas/249",
+        "harda/320",
+        "hoshangabad/331",
+        "raisen/564",
+        "rajgarh/565",
+        "shajapur/616"
+    ],
+    "seoni/611": [
+        "balaghat/141",
+        "chhindwara/217",
+        "jabalpur/336",
+        "mandla/468",
+        "nagpur/495",
+        "narsinghpur/504"
+    ],
+    "serchhip/612": [
+        "aizawl/105",
+        "champhai/207",
+        "lunglei/452",
+        "hnahthial/329",
+        "khawzawl/398",
+        "saitual/596"
+    ],
+    "shahdol/613": [
+        "anuppur/126",
+        "koriya/419",
+        "satna/608",
+        "sidhi/629",
+        "umaria/691"
+    ],
+    "shahid bhagat singh nagar/614": [
+        "hoshiarpur/332",
+        "jalandhar/341",
+        "kapurthala/381",
+        "ludhiana/451",
+        "rupnagar/587"
+    ],
+    "shahjahanpur/615": [
+        "bareilly/160",
+        "budaun/196",
+        "farrukhabad/281",
+        "hardoi/321",
+        "pilibhit/542"
+    ],
+    "shajapur/616": [
+        "agar malwa/101",
+        "dewas/249",
+        "rajgarh/565",
+        "sehore/610",
+        "ujjain/690"
+    ],
+    "shamli/617": [
+        "baghpat/139",
+        "karnal/385",
+        "muzaffarnagar/488",
+        "panipat/527",
+        "saharanpur/592"
+    ],
+    "sheikhpura/618": [
+        "jamui/350",
+        "lakhisarai/436",
+        "nalanda/497",
+        "nawada/507"
+    ],
+    "sheohar/619": [
+        "east champaran/267",
+        "muzaffarpur/489",
+        "sitamarhi/638"
+    ],
+    "sheopur/620": [
+        "baran/159",
+        "karauli/383",
+        "kota/420",
+        "morena/483",
+        "sawai madhopur/609",
+        "shivpuri/624"
+    ],
+    "shi yomi/621": [
+        "siang/627",
+        "upper siang/696",
+        "upper subansiri/697",
+        "west siang/722"
+    ],
+    "shimla/622": [
+        "dehradun/243",
+        "kinnaur/403",
+        "kullu/427",
+        "mandi/467",
+        "sirmaur/635",
+        "solan/642",
+        "uttarkashi/701"
+    ],
+    "shivamogga/623": [
+        "chikkamagaluru/220",
+        "davanagere/242",
+        "haveri/325",
+        "udupi/689",
+        "uttara kannada/700"
+    ],
+    "shivpuri/624": [
+        "ashoknagar/131",
+        "baran/159",
+        "datia/240",
+        "guna/311",
+        "gwalior/315",
+        "jhansi/358",
+        "lalitpur/437",
+        "morena/483",
+        "sheopur/620"
+    ],
+    "shopiyan/625": [
+        "anantnag/123",
+        "budgam/197",
+        "kulgam/426",
+        "pulwama/551"
+    ],
+    "shrawasti/626": [
+        "bahraich/140",
+        "balrampur/148",
+        "gonda/306"
+    ],
+    "siang/627": [
+        "east siang/273",
+        "lower siang/448",
+        "shi yomi/621",
+        "upper siang/696",
+        "west siang/722"
+    ],
+    "siddharthnagar/628": [
+        "balrampur/148",
+        "basti/166",
+        "gonda/306",
+        "gorakhpur/309",
+        "maharajganj/456",
+        "sant kabir nagar/604"
+    ],
+    "sidhi/629": [
+        "koriya/419",
+        "rewa/581",
+        "satna/608",
+        "shahdol/613",
+        "singrauli/633"
+    ],
+    "sikar/630": [
+        "churu/225",
+        "jaipur/338",
+        "jhunjhunu/361",
+        "mahendragarh/459",
+        "nagaur/494"
+    ],
+    "simdega/631": [
+        "gumla/310",
+        "jashpur/352",
+        "khunti/402",
+        "sundargarh/657",
+        "west singhbhum/723"
+    ],
+    "sindhudurg/632": [
+        "belagavi/170",
+        "kolhapur/412",
+        "ratnagiri/578"
+    ],
+    "singrauli/633": [
+        "balrampur/149",
+        "koriya/419",
+        "mirzapur/477",
+        "rewa/581",
+        "sidhi/629",
+        "sonbhadra/644",
+        "surajpur/659"
+    ],
+    "sipahijala/634": [
+        "gomati/305",
+        "khowai/401",
+        "south tripura/648",
+        "west tripura/724"
+    ],
+    "sirmaur/635": [
+        "ambala/114",
+        "dehradun/243",
+        "panchkula/525",
+        "saharanpur/592",
+        "shimla/622",
+        "solan/642",
+        "yamunanagar/728"
+    ],
+    "sirohi/636": [
+        "banaskantha/151",
+        "jalore/345",
+        "pali/523",
+        "sabarkantha/590",
+        "udaipur/686"
+    ],
+    "sirsa/637": [
+        "bathinda/167",
+        "fatehabad/282",
+        "hanumangarh/318",
+        "mansa/471",
+        "sri muktsar sahib/651"
+    ],
+    "sitamarhi/638": [
+        "darbhanga/238",
+        "east champaran/267",
+        "madhubani/454",
+        "muzaffarpur/489",
+        "sheohar/619"
+    ],
+    "sitapur/639": [
+        "bahraich/140",
+        "barabanki/157",
+        "hardoi/321",
+        "lucknow/450"
+    ],
+    "sivaganga/640": [
+        "madurai/455",
+        "pudukkottai/550",
+        "ramanathapuram/571",
+        "tiruchirappalli/678",
+        "virudhunagar/710"
+    ],
+    "siwan/641": [
+        "ballia/145",
+        "deoria/247",
+        "gopalganj/308",
+        "saran/606"
+    ],
+    "solan/642": [
+        "bilaspur/190",
+        "mandi/467",
+        "panchkula/525",
+        "rupnagar/587",
+        "s.a.s. nagar/588",
+        "shimla/622",
+        "sirmaur/635"
+    ],
+    "solapur/643": [
+        "ahmednagar/104",
+        "kalaburagi/368",
+        "osmanabad/517",
+        "pune/553",
+        "sangli/602",
+        "satara/607",
+        "vijayapura/708"
+    ],
+    "sonbhadra/644": [
+        "balrampur/149",
+        "chandauli/208",
+        "garhwa/295",
+        "mirzapur/477",
+        "rohtas/585",
+        "singrauli/633"
+    ],
+    "sonipat/645": [
+        "baghpat/139",
+        "jhajjar/356",
+        "jind/362",
+        "panipat/527",
+        "rohtak/584",
+        "delhi/244"
+    ],
+    "south 24 parganas/646": [
+        "howrah/333",
+        "kolkata/413",
+        "north 24 parganas/512",
+        "purba medinipur/555"
+    ],
+    "south garo hills/647": [
+        "east garo hills/268",
+        "south west khasi hills/650",
+        "west garo hills/717",
+        "west khasi hills/721"
+    ],
+    "south tripura/648": [
+        "gomati/305",
+        "sipahijala/634"
+    ],
+    "south west garo hills/649": [
+        "west garo hills/717"
+    ],
+    "south west khasi hills/650": [
+        "east khasi hills/272",
+        "south garo hills/647",
+        "west khasi hills/721"
+    ],
+    "sri muktsar sahib/651": [
+        "bathinda/167",
+        "faridkot/280",
+        "fazilka/285",
+        "ferozepur/286",
+        "hanumangarh/318",
+        "sirsa/637"
+    ],
+    "srikakulam/652": [
+        "gajapati/290",
+        "ganjam/294",
+        "rayagada/579",
+        "vizianagaram/712"
+    ],
+    "srinagar/653": [
+        "anantnag/123",
+        "bandipora/153",
+        "baramulla/158",
+        "budgam/197",
+        "ganderbal/291",
+        "pulwama/551"
+    ],
+    "subarnapur/654": [
+        "angul/124",
+        "balangir/142",
+        "bargarh/161",
+        "beed/168",
+        "sambalpur/600"
+    ],
+    "sukma/655": [
+        "bastar/165",
+        "bijapur/187",
+        "dakshin bastar dantewada/232",
+        "east godavari/269",
+        "malkangiri/465"
+    ],
+    "sultanpur/656": [
+        "ambedkar nagar/115",
+        "amethi/116",
+        "ayodhya/135",
+        "azamgarh/136",
+        "jaunpur/353",
+        "pratapgarh/546"
+    ],
+    "sundargarh/657": [
+        "angul/124",
+        "deogarh/245",
+        "jashpur/352",
+        "jharsuguda/360",
+        "kendujhar/394",
+        "raigarh/562",
+        "sambalpur/600",
+        "simdega/631",
+        "west singhbhum/723"
+    ],
+    "supaul/658": [
+        "araria/127",
+        "madhepura/453",
+        "madhubani/454",
+        "saharsa/593"
+    ],
+    "surajpur/659": [
+        "balrampur/149",
+        "korba/418",
+        "koriya/419",
+        "singrauli/633",
+        "surguja/662"
+    ],
+    "surat/660": [
+        "bharuch/179",
+        "narmada/503",
+        "tapi/663"
+    ],
+    "surendranagar/661": [
+        "ahmedabad/103",
+        "botad/194",
+        "kutch/433",
+        "mehsana/476",
+        "morbi/482",
+        "patan/533",
+        "rajkot/566"
+    ],
+    "surguja/662": [
+        "balrampur/149",
+        "jashpur/352",
+        "korba/418",
+        "raigarh/562",
+        "surajpur/659"
+    ],
+    "tapi/663": [
+        "dang/237",
+        "dhule/258",
+        "nandurbar/501",
+        "narmada/503",
+        "surat/660"
+    ],
+    "tarn taran/664": [
+        "amritsar/119",
+        "ferozepur/286",
+        "kapurthala/381"
+    ],
+    "tawang/665": [
+        "east kameng/271",
+        "west kameng/720"
+    ],
+    "tehri garhwal/666": [
+        "dehradun/243",
+        "pauri garhwal/538",
+        "rudraprayag/586",
+        "uttarkashi/701"
+    ],
+    "tenkasi/667": [
+        "kollam/414",
+        "thiruvananthapuram/672",
+        "thoothukkudi/674",
+        "tirunelveli/679",
+        "virudhunagar/710"
+    ],
+    "thane/668": [
+        "ahmednagar/104",
+        "nashik/505",
+        "palghar/522",
+        "pune/553",
+        "raigad/561",
+        "mumbai/484"
+    ],
+    "thanjavur/669": [
+        "ariyalur/129",
+        "cuddalore/228",
+        "nagapattinam/493",
+        "pudukkottai/550",
+        "thiruvarur/673",
+        "tiruchirappalli/678"
+    ],
+    "theni/670": [
+        "dindigul/260",
+        "idukki/334",
+        "madurai/455",
+        "virudhunagar/710"
+    ],
+    "thiruvallur/671": [
+        "chennai/215",
+        "chittoor/223",
+        "kancheepuram/373",
+        "s.p.s. nellore/589",
+        "vellore/706",
+        "ranipet/576"
+    ],
+    "thiruvananthapuram/672": [
+        "kanyakumari/380",
+        "kollam/414",
+        "tenkasi/667"
+    ],
+    "thiruvarur/673": [
+        "karaikal/382",
+        "nagapattinam/493",
+        "thanjavur/669"
+    ],
+    "thoothukkudi/674": [
+        "ramanathapuram/571",
+        "tirunelveli/679",
+        "virudhunagar/710",
+        "tenkasi/667"
+    ],
+    "thrissur/675": [
+        "coimbatore/226",
+        "ernakulam/275",
+        "malappuram/463",
+        "palakkad/520"
+    ],
+    "tikamgarh/676": [
+        "chhatarpur/216",
+        "jhansi/358",
+        "lalitpur/437",
+        "niwari/511"
+    ],
+    "tirap/677": [
+        "changlang/211",
+        "longding/445"
+    ],
+    "tiruchirappalli/678": [
+        "ariyalur/129",
+        "dindigul/260",
+        "karur/386",
+        "madurai/455",
+        "namakkal/498",
+        "perambalur/539",
+        "pudukkottai/550",
+        "salem/597",
+        "sivaganga/640",
+        "thanjavur/669"
+    ],
+    "tirunelveli/679": [
+        "idukki/334",
+        "kanyakumari/380",
+        "pathanamthitta/534",
+        "thoothukkudi/674",
+        "tenkasi/667"
+    ],
+    "tirupathur/680": [
+        "chittoor/223",
+        "krishnagiri/425",
+        "tiruvannamalai/682",
+        "vellore/706"
+    ],
+    "tiruppur/681": [
+        "coimbatore/226",
+        "dindigul/260",
+        "erode/276",
+        "idukki/334",
+        "karur/386"
+    ],
+    "tiruvannamalai/682": [
+        "dharmapuri/254",
+        "kallakurichi/371",
+        "kancheepuram/373",
+        "krishnagiri/425",
+        "vellore/706",
+        "viluppuram/709",
+        "ranipet/576",
+        "tirupathur/680"
+    ],
+    "tonk/683": [
+        "ajmer/106",
+        "bhilwara/181",
+        "bundi/200",
+        "dausa/241",
+        "jaipur/338",
+        "sawai madhopur/609"
+    ],
+    "tuensang/684": [
+        "kiphire/404",
+        "longleng/446",
+        "mokokchung/479",
+        "mon/480",
+        "zunheboto/731"
+    ],
+    "tumakuru/685": [
+        "anantapur/122",
+        "bengaluru rural/171",
+        "chikkaballapura/219",
+        "chikkamagaluru/220",
+        "chitradurga/221",
+        "hassan/323",
+        "mandya/470",
+        "ramanagara/570"
+    ],
+    "udaipur/686": [
+        "aravalli/128",
+        "chittorgarh/224",
+        "dungarpur/265",
+        "pali/523",
+        "pratapgarh/547",
+        "rajsamand/569",
+        "sabarkantha/590",
+        "sirohi/636"
+    ],
+    "udham singh nagar/687": [
+        "bareilly/160",
+        "bijnor/188",
+        "champawat/206",
+        "moradabad/481",
+        "nainital/496",
+        "pilibhit/542",
+        "rampur/574"
+    ],
+    "udhampur/688": [
+        "doda/263",
+        "jammu/347",
+        "kathua/389",
+        "ramban/572",
+        "reasi/580",
+        "samba/599"
+    ],
+    "udupi/689": [
+        "chikkamagaluru/220",
+        "dakshina kannada/234",
+        "shivamogga/623",
+        "uttara kannada/700"
+    ],
+    "ujjain/690": [
+        "agar malwa/101",
+        "dewas/249",
+        "dhar/253",
+        "indore/335",
+        "ratlam/577",
+        "shajapur/616"
+    ],
+    "umaria/691": [
+        "anuppur/126",
+        "dindori/261",
+        "jabalpur/336",
+        "katni/391",
+        "satna/608",
+        "shahdol/613"
+    ],
+    "una/692": [
+        "bilaspur/190",
+        "hamirpur/316",
+        "hoshiarpur/332",
+        "kangra/375",
+        "rupnagar/587"
+    ],
+    "unnao/693": [
+        "fatehpur/284",
+        "hardoi/321",
+        "kanpur nagar/379",
+        "lucknow/450",
+        "rae bareli/559"
+    ],
+    "unokoti/694": [
+        "dhalai/250",
+        "north tripura/514"
+    ],
+    "upper dibang valley/695": [
+        "lower dibang valley/447",
+        "upper siang/696"
+    ],
+    "upper siang/696": [
+        "east siang/273",
+        "lower dibang valley/447",
+        "shi yomi/621",
+        "siang/627",
+        "upper dibang valley/695"
+    ],
+    "upper subansiri/697": [
+        "kamle/372",
+        "kra daadi/423",
+        "kurung kumey/431",
+        "lepa rada/442",
+        "lower siang/448",
+        "shi yomi/621",
+        "west siang/722"
+    ],
+    "uttar bastar kanker/698": [
+        "balod/146",
+        "dhamtari/251",
+        "gadchiroli/289",
+        "kondagaon/415",
+        "narayanpur/502",
+        "rajnandgaon/567"
+    ],
+    "uttar dinajpur/699": [
+        "dakshin dinajpur/233",
+        "darjeeling/239",
+        "katihar/390",
+        "kishanganj/405",
+        "malda/464",
+        "purnia/557"
+    ],
+    "uttara kannada/700": [
+        "belagavi/170",
+        "dharwad/255",
+        "haveri/325",
+        "shivamogga/623",
+        "udupi/689"
+    ],
+    "uttarkashi/701": [
+        "chamoli/205",
+        "dehradun/243",
+        "kinnaur/403",
+        "rudraprayag/586",
+        "shimla/622",
+        "tehri garhwal/666"
+    ],
+    "vadodara/702": [
+        "anand/121",
+        "bharuch/179",
+        "chhota udaipur/218",
+        "kheda/399",
+        "narmada/503",
+        "panchmahal/526"
+    ],
+    "vaishali/703": [
+        "muzaffarpur/489",
+        "patna/537",
+        "samastipur/598",
+        "saran/606"
+    ],
+    "valsad/704": [
+        "dadra and nagar haveli/230",
+        "daman/235",
+        "nashik/505",
+        "palghar/522"
+    ],
+    "varanasi/705": [
+        "bhadohi/174",
+        "chandauli/208",
+        "ghazipur/301",
+        "jaunpur/353",
+        "mirzapur/477"
+    ],
+    "vellore/706": [
+        "chittoor/223",
+        "thiruvallur/671",
+        "tiruvannamalai/682",
+        "ranipet/576",
+        "tirupathur/680"
+    ],
+    "vidisha/707": [
+        "ashoknagar/131",
+        "bhopal/185",
+        "guna/311",
+        "raisen/564",
+        "sagar/591"
+    ],
+    "vijayapura/708": [
+        "bagalkote/137",
+        "belagavi/170",
+        "kalaburagi/368",
+        "raichur/560",
+        "sangli/602",
+        "solapur/643",
+        "yadgir/727"
+    ],
+    "viluppuram/709": [
+        "cuddalore/228",
+        "kallakurichi/371",
+        "kancheepuram/373",
+        "puducherry/549",
+        "tiruvannamalai/682"
+    ],
+    "virudhunagar/710": [
+        "idukki/334",
+        "madurai/455",
+        "ramanathapuram/571",
+        "sivaganga/640",
+        "theni/670",
+        "thoothukkudi/674",
+        "tenkasi/667"
+    ],
+    "visakhapatnam/711": [
+        "east godavari/269",
+        "koraput/417",
+        "malkangiri/465",
+        "vizianagaram/712"
+    ],
+    "vizianagaram/712": [
+        "koraput/417",
+        "rayagada/579",
+        "srikakulam/652",
+        "visakhapatnam/711"
+    ],
+    "wardha/713": [
+        "amravati/117",
+        "chandrapur/210",
+        "nagpur/495",
+        "yavatmal/730"
+    ],
+    "washim/714": [
+        "akola/107",
+        "amravati/117",
+        "buldhana/199",
+        "hingoli/327",
+        "parbhani/530",
+        "yavatmal/730"
+    ],
+    "wayanad/715": [
+        "chamarajanagara/203",
+        "kannur/377",
+        "kodagu/407",
+        "kozhikode/422",
+        "malappuram/463",
+        "mysuru/490",
+        "nilgiris/510"
+    ],
+    "west champaran/716": [
+        "east champaran/267",
+        "gopalganj/308",
+        "kushinagar/432",
+        "maharajganj/456"
+    ],
+    "west garo hills/717": [
+        "east garo hills/268",
+        "north garo hills/513",
+        "south garo hills/647",
+        "south west garo hills/649"
+    ],
+    "west godavari/718": [
+        "east godavari/269",
+        "krishna/424"
+    ],
+    "west jaintia hills/719": [
+        "east jaintia hills/270",
+        "east khasi hills/272",
+        "ribhoi/583"
+    ],
+    "west kameng/720": [
+        "east kameng/271",
+        "pakke kessang/518",
+        "tawang/665"
+    ],
+    "west khasi hills/721": [
+        "east garo hills/268",
+        "east khasi hills/272",
+        "kaimur/366",
+        "north garo hills/513",
+        "ribhoi/583",
+        "south garo hills/647",
+        "south west khasi hills/650"
+    ],
+    "west siang/722": [
+        "lepa rada/442",
+        "lower siang/448",
+        "shi yomi/621",
+        "siang/627",
+        "upper subansiri/697"
+    ],
+    "west singhbhum/723": [
+        "kendujhar/394",
+        "khunti/402",
+        "mayurbhanj/474",
+        "saraikela-kharsawan/605",
+        "simdega/631",
+        "sundargarh/657"
+    ],
+    "west tripura/724": [
+        "khowai/401",
+        "sipahijala/634"
+    ],
+    "wokha/725": [
+        "kohima/409",
+        "mokokchung/479",
+        "zunheboto/731"
+    ],
+    "y.s.r. kadapa/726": [
+        "anantapur/122",
+        "chittoor/223",
+        "kurnool/429",
+        "prakasam/545",
+        "s.p.s. nellore/589"
+    ],
+    "yadgir/727": [
+        "kalaburagi/368",
+        "raichur/560",
+        "vijayapura/708"
+    ],
+    "yamunanagar/728": [
+        "ambala/114",
+        "karnal/385",
+        "kurukshetra/430",
+        "saharanpur/592",
+        "sirmaur/635"
+    ],
+    "yanam/729": [
+        "east godavari/269"
+    ],
+    "yavatmal/730": [
+        "amravati/117",
+        "chandrapur/210",
+        "hingoli/327",
+        "nanded/500",
+        "wardha/713",
+        "washim/714"
+    ],
+    "zunheboto/731": [
+        "kiphire/404",
+        "kohima/409",
+        "mokokchung/479",
+        "phek/541",
+        "tuensang/684",
+        "wokha/725"
+    ]
+}
