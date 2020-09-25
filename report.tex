@@ -1,0 +1,151 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{hyperref}
+\graphicspath{ {./images/} }
+% if you need to pass options to natbib, use, e.g.:
+%     \PassOptionsToPackage{numbers, compress}{natbib}
+% before loading neurips_2019
+
+% ready for submission
+% \usepackage{neurips_2019}
+
+% to compile a preprint version, e.g., for submission to arXiv, add add the
+% [preprint] option:
+%     \usepackage[preprint]{neurips_2019}
+
+% to compile a camera-ready version, add the [final] option, e.g.:
+\usepackage{caption}
+\usepackage[preprint]{neurips_2019}
+\usepackage{amsmath}
+\DeclareMathOperator*{\argminA}{arg\,min} % Jan Hlavacek
+\DeclareMathOperator*{\argminB}{argmin}   % Jan Hlavacek
+\DeclareMathOperator*{\argminC}{\arg\min}   % rbp% thin space, limits underneath in displays
+% to avoid loading the natbib package, add option nonatbib:
+%     \usepackage[nonatbib]{neurips_2019}
+
+\usepackage[utf8]{inputenc} % allow utf-8 input
+\usepackage[T1]{fontenc}    % use 8-bit T1 fonts
+\usepackage{hyperref}       % hyperlinks
+\usepackage{url}            % simple URL typesetting
+\usepackage{booktabs}       % professional-quality tables
+\usepackage{amsfonts}       % blackboard math symbols
+\usepackage{nicefrac}       % compact symbols for 1/2, etc.
+\usepackage{microtype}      % microtypography
+
+\title{CS685: Assignment 1}
+
+% The \author macro works with any number of authors. There are two commands
+% used to separate the names and addresses of multiple authors: \And and \AND.
+%
+% Using \And between authors leaves it to LaTeX to determine where to break the
+% lines. Using \AND forces a line break at that point. So, if LaTeX puts 3 of 4
+% authors names on the first line, and the last on the second line, try using
+% \AND instead of \And before the third author name.
+
+\author{
+  Neil Rajiv Shirude \\
+  Roll no:170429 \\
+  \texttt{neilrs@iitk.ac.in} \\
+ }
+ 
+
+\begin{document}
+
+\maketitle
+
+\section{Solution to Part 10: Overall Conclusions}
+
+\subsection{Choice of Covid-19 Data}
+
+The folllowing datasets were available at https://api.covid19india.org/-
+\begin{enumerate}
+    \item Entire data: \url{https://api.covid19india.org/v4/data-all.json}
+    \item Raw data: \url{https://api.covid19india.org/raw_data1.json}
+    \item Data in CSV format: \url{https://api.covid19india.org/csv/latest/districts.csv} 
+\end{enumerate}
+
+I chose to use entire data (data-all.json), because of the following merits- 
+\begin{itemize}
+    \item Availability of data over entire period of analysis, unlike the data in CSV format (districts.csv)
+    \item No repetition in the number of cases and no double counting, as in the case of raw data
+    \item Well-documented 'confirmed' number of cases. (On the other hand, raw data has reliable 'hospitalized' data. But according to \href{https://www.who.int/indonesia/news/detail/08-03-2020-knowing-the-risk-for-covid-19#:~:text=Most\%20people\%20(about\%2080,are\%20at\%20greater\%20risk.}{WHO}, the hospitalization rate for COVID-patients is not uniform and is less than 20\%.
+\end{itemize}
+
+\subsection{Missing Values}
+
+\subsubsection{Identification of Missing Values}
+
+\begin{enumerate}
+    \item For certain days, particularly in the beginning of the analysis period, district-level data was not available. Instead, state-level data was available.
+    \item Certain states considered certain special COVID-19 cases as districts. These included-
+    \begin{itemize}
+        \item State Pool
+        \item Foreign Evacuees
+        \item Airport Quarantine
+        \item Railway Quarantine
+        \item BSF Camp
+        \item Italians
+        \item Other Districts
+        \item Others, etc.
+    \end{itemize}
+\end{enumerate}
+
+\subsubsection{Handling of Missing Values}
+
+\begin{enumerate}
+    \item For a certain day, if district-level data is not available and  only state-level data is available, I mapped the cases for a state to the district in the state with the highest population. 
+    \item Over the period of analysis, there were approximately 38 lakh confirmed COVID-19 cases in India. The sum of the number of cases mapped to these absurd districts was less than 30,000 cases. As these absurd cases account for less than 1\% of the total casesover the analysis period, I ignored these cases (after consulting with sir during a discussion hour).
+\end{enumerate}
+
+\subsection{Overall Conclusions}
+
+\subsubsection{Overall Results}
+
+Over the entire period of analysis, the following districts were identified as the top-5 hotspots-
+\begin{itemize}
+    \item Neighborhood analysis hotspots-
+    \begin{enumerate}
+        \item Bengaluru urban
+        \item Bhopal
+        \item Delhi
+        \item Surat
+        \item Ahmedabad
+    \end{enumerate}
+    \item Neighborhood analysis coldspots-
+    \begin{enumerate}
+        \item Upper Dibang Valley
+        \item Krishna
+        \item South Tripura
+        \item Kalimpong
+        \item Unokoti
+    \end{enumerate}
+    \item State analysis hotspots-
+    \begin{enumerate}
+        \item Puducherry
+        \item Bengaluru urban
+        \item Chennai
+        \item Raipur
+        \item Patna
+    \end{enumerate}
+    \item State analysis coldspots-
+    \begin{enumerate}
+        \item Diu
+        \item Krishna
+        \item Lahaul and Spiti
+        \item Vizianagaram
+        \item Wayanad
+    \end{enumerate}
+\end{itemize}
+
+\subsubsection{Interpretation of Overall Results}
+
+According to this analysis, the districts with very high cases in comparison to their neighboring districts/ other districts in their state are identified as hotspot districts. If the spread of COVID-19 cases in these hotspot districts can be contained, the impact would be very high, since the disease has not spread in the vicinity of these districts.
+
+Districts such as Pune and Mumbai that have reported the highest number of cases in India cannot be predominantly seen in these lists since their neighbors/ other districts in their state have also witnessed large scale spread of COVID-19.
+
+Similarly, the districts having very low cases in comparison to their neighboring districts/ other districts in their state are identified as coldspot districts. These districts have done a better job at containing the spread of COVID-19 as compared to their neighbors.
+
+
+\end{document}
+
