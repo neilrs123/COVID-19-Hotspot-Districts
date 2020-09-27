@@ -1,6 +1,8 @@
 # COVID-19-Hotspot-Districts
 Course Project for CS685: Data Mining
 
+In order to run the entire script, run the coomand "bash assign1.sh" command from terminal.
+
 # Q1_Asgn1.ipynb
 Input: neighbor-districts.json, COVID-19 api
 
