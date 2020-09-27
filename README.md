@@ -1,6 +1,8 @@
 # COVID-19-Hotspot-Districts
 Course Project for CS685: Data Mining
 
+Refer to pdf file assign1_3.pdf to understand the tasks performed here. 
+
 In order to run the entire script, run the coomand "bash assign1.sh" command from terminal.
 
 # Q1_Asgn1.ipynb
